@@ -1,0 +1,21 @@
+2021-08-26 00:02:21.101 root         load_r2rTrips INFO     logging into ./generators2/r2rTrips/files/logs/r2rTrips_python_log_2021-08-26-00-02-21.txt
+2021-08-26 00:02:21.102 root         load_r2rTrips INFO     logging to : ./generators2/r2rTrips/files/logs/r2rTrips_python_log_2021-08-26-00-02-21.txt
+2021-08-26 00:02:21.103 root         load_r2rTrips INFO     
+
+2021-08-26 00:02:22.816 root         load_r2rTrips INFO     parsing hierarchy of trip from Tokyo to Jakarta
+2021-08-26 00:02:22.843 root         load_r2rTrips INFO     exrtracting transists info for trip: Tokyo_Jakarta
+2021-08-26 00:02:22.844 root         load_r2rTrips INFO     extracing and loading data for trip Tokyo_Jakarta#0
+2021-08-26 00:02:22.870 root         load_r2rTrips INFO     extracing and loading data for trip Tokyo_Jakarta#1
+2021-08-26 00:02:22.882 root         load_r2rTrips INFO     extracing and loading data for trip Tokyo_Jakarta#2
+2021-08-26 00:02:22.892 root         load_r2rTrips INFO     total extracted and loaded 3 trip options
+2021-08-26 00:02:22.897 root         load_r2rTrips INFO     parsing hierarchy of trip Tokyo_Jakarta
+2021-08-26 00:02:22.900 root         load_r2rTrips INFO     parsing hierarchy of trip from Jakarta to Tokyo
+2021-08-26 00:02:22.927 root         load_r2rTrips INFO     exrtracting transists info for trip: Jakarta_Tokyo
+2021-08-26 00:02:22.928 root         load_r2rTrips INFO     extracing and loading data for trip Jakarta_Tokyo#0
+2021-08-26 00:02:22.937 root         load_r2rTrips INFO     extracing and loading data for trip Jakarta_Tokyo#1
+2021-08-26 00:02:22.946 root         load_r2rTrips INFO     extracing and loading data for trip Jakarta_Tokyo#2
+2021-08-26 00:02:22.955 root         load_r2rTrips INFO     total extracted and loaded 3 trip options
+2021-08-26 00:02:22.961 root         load_r2rTrips INFO     parsing hierarchy of trip Jakarta_Tokyo
+2021-08-26 00:02:22.979 root         load_r2rTrips INFO     
+
+2021-08-26 00:02:22.980 root         load_r2rTrips INFO     --- total python duration: 00:00:02 ---

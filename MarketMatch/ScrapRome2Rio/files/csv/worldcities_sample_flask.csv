@@ -1,0 +1,7 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tel Aviv,Tel Aviv,32.0833,34.8,Israel,IL,ISR,Tel Aviv,admin,451523,1376401542
+Tokyo,Tokyo,35.6897,139.6922,Japan,JP,JPN,Tōkyō,primary,37977000,1392685764
+Bangkok,Bangkok,13.75,100.5167,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,17066000,1764068610
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,"London, City of",primary,10979000,1826645935
+Moscow,Moscow,46.7307,-116.9986,United States,US,USA,Idaho,,26145,1840019868
+New York,New York,40.6943,-73.9249,United States,US,USA,New York,,18713220,1840034016

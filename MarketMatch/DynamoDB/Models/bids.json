@@ -1,0 +1,812 @@
+{
+  "ModelName": "Bookmarks Data Model",
+  "ModelMetadata": {
+    "Author": "Amazon Web Services, Inc.",
+    "DateCreated": "May 1, 2020, 11:00 AM",
+    "DateLastModified": "Aug 01, 2021, 01:31 AM",
+    "Description": "This model is about storing URL bookmarks for customers.\n\nEven if the use case is relatively simple, there are still many interesting considerations to make. A customer can have many bookmarks and a bookmark can be for many customers. So we have to model a “many to many” relationship. A first approach is to create two tables, one for customers, and one for bookmarks. This first approach, using two tables, definitely works. But when customers log in to display their bookmarks each time, the application runs two requests to DynamoDB, the first to get the customer data in the Customer table, the second to get the customer bookmarks in the Bookmark table.\n\nThis is something quite common when moving a relational data model to NoSQL without changes: table joins are “unrolled” into multiple requests to the database. This is not efficient, especially if you start to have three or more requests instead of one. To be efficient we store the customer information and the customer's bookmarks in the same table as a collection of related items and use facets to visualize different kinds of data you store in the same table.\n\nIn this model the primary key of the CustomerBookmark table is composite: the partition key is always the customerId, while the sort key can hold different values. We use the sort key to store URL for bookmarks, or a concatenated string such as “CUST#” followed by customerId for customer data. In this way, the sort key is an overloaded attribute with a generic name “sk”.\n\nAccess patterns that this model is meant for are the following.\n    * A single query by customerId can now return customer data as well as bookmarks.\n    * A query ByEmail index returns customer data by email address. Note that bookmarks are not retrieved by this index.\n    * A query ByUrl index gets bookmarks data by URL. Note that we have customerId as the sort key for the index because the same URL can be bookmarked by multiple customers.\n    * A query ByCustomerFolder index gets bookmarks by folder for each customer\n\nYou can use the Customer facet to visualize all the customer information and the Bookmark facets to see data for all bookmarks. Note that facet is a virtual construct in NoSQL Workbench and not a functional construct in DynamoDB itself.\n",
+    "Version": "3.0",
+    "AWSService": "Amazon DynamoDB"
+  },
+  "DataModel": [
+    {
+      "TableName": "CustomerBookmark",
+      "KeyAttributes": {
+        "PartitionKey": {
+          "AttributeName": "customerId",
+          "AttributeType": "S"
+        },
+        "SortKey": {
+          "AttributeName": "sk",
+          "AttributeType": "S"
+        }
+      },
+      "NonKeyAttributes": [
+        {
+          "AttributeName": "createDate",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "updateDate",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "email",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "fullName",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "userPreferences",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "folder",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "title",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "description",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "url",
+          "AttributeType": "S"
+        }
+      ],
+      "TableFacets": [
+        {
+          "FacetName": "Customer",
+          "KeyAttributeAlias": {
+            "PartitionKeyAlias": "customerId",
+            "SortKeyAlias": "type"
+          },
+          "TableData": [
+            {
+              "customerId": {
+                "S": "123"
+              },
+              "sk": {
+                "S": "CUST#123"
+              },
+              "email": {
+                "S": "shirley@example.net"
+              },
+              "fullName": {
+                "S": "Shirley Rodriguez"
+              },
+              "userPreferences": {
+                "S": "{“language”: “en”, “sort”: “date”, “sortDirection”: “ascending”}"
+              }
+            },
+            {
+              "customerId": {
+                "S": "321"
+              },
+              "sk": {
+                "S": "CUST#321"
+              },
+              "email": {
+                "S": "zhang@example.net"
+              },
+              "fullName": {
+                "S": "Zhang Wei"
+              },
+              "userPreferences": {
+                "S": "{“language”: “zh”, “sort”: “rating”, “sortDirection”: “descending”}"
+              }
+            }
+          ],
+          "NonKeyAttributes": [
+            "email",
+            "fullName",
+            "userPreferences"
+          ],
+          "DataAccess": {
+            "MySql": {}
+          }
+        },
+        {
+          "FacetName": "Bookmark",
+          "KeyAttributeAlias": {
+            "PartitionKeyAlias": "customerId",
+            "SortKeyAlias": "url"
+          },
+          "TableData": [
+            {
+              "customerId": {
+                "S": "123"
+              },
+              "sk": {
+                "S": "https://aws.amazon.com"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "folder": {
+                "S": "Cloud"
+              },
+              "title": {
+                "S": "AWS"
+              },
+              "description": {
+                "S": "Amazon Web Services"
+              },
+              "url": {
+                "S": "https://aws.amazon.com"
+              }
+            },
+            {
+              "customerId": {
+                "S": "123"
+              },
+              "sk": {
+                "S": "https://console.aws.amazon.com"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "folder": {
+                "S": "Cloud"
+              },
+              "title": {
+                "S": "AWS Console"
+              },
+              "description": {
+                "S": "Web console"
+              },
+              "url": {
+                "S": "https://console.aws.amazon.com"
+              }
+            },
+            {
+              "customerId": {
+                "S": "321"
+              },
+              "sk": {
+                "S": "https://aws.amazon.com"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:45-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:45-07:00"
+              },
+              "folder": {
+                "S": "Tools"
+              },
+              "title": {
+                "S": "AWS"
+              },
+              "description": {
+                "S": "Amazon Web Services"
+              },
+              "url": {
+                "S": "https://aws.amazon.com"
+              }
+            },
+            {
+              "customerId": {
+                "S": "321"
+              },
+              "sk": {
+                "S": "https://docs.aws.amazon.com"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "folder": {
+                "S": "Docs"
+              },
+              "title": {
+                "S": "AWS Docs"
+              },
+              "description": {
+                "S": "Documentation"
+              },
+              "url": {
+                "S": "https://docs.aws.amazon.com"
+              }
+            }
+          ],
+          "NonKeyAttributes": [
+            "createDate",
+            "updateDate",
+            "folder",
+            "title",
+            "description",
+            "url"
+          ],
+          "DataAccess": {
+            "MySql": {}
+          }
+        }
+      ],
+      "GlobalSecondaryIndexes": [
+        {
+          "IndexName": "ByEmail",
+          "KeyAttributes": {
+            "PartitionKey": {
+              "AttributeName": "email",
+              "AttributeType": "S"
+            }
+          },
+          "Projection": {
+            "ProjectionType": "ALL"
+          }
+        },
+        {
+          "IndexName": "ByUrl",
+          "KeyAttributes": {
+            "PartitionKey": {
+              "AttributeName": "url",
+              "AttributeType": "S"
+            },
+            "SortKey": {
+              "AttributeName": "customerId",
+              "AttributeType": "S"
+            }
+          },
+          "Projection": {
+            "ProjectionType": "ALL"
+          }
+        },
+        {
+          "IndexName": "ByCustomerFolder",
+          "KeyAttributes": {
+            "PartitionKey": {
+              "AttributeName": "customerId",
+              "AttributeType": "S"
+            },
+            "SortKey": {
+              "AttributeName": "folder",
+              "AttributeType": "S"
+            }
+          },
+          "Projection": {
+            "ProjectionType": "ALL"
+          }
+        }
+      ],
+      "DataAccess": {
+        "MySql": {}
+      },
+      "BillingMode": "PROVISIONED",
+      "ProvisionedCapacitySettings": {
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 5,
+          "WriteCapacityUnits": 5
+        },
+        "AutoScalingRead": {
+          "ScalableTargetRequest": {
+            "MinCapacity": 1,
+            "MaxCapacity": 10,
+            "ServiceRole": "AWSServiceRoleForApplicationAutoScaling_DynamoDBTable"
+          },
+          "ScalingPolicyConfiguration": {
+            "TargetValue": 70
+          }
+        },
+        "AutoScalingWrite": {
+          "ScalableTargetRequest": {
+            "MinCapacity": 1,
+            "MaxCapacity": 10,
+            "ServiceRole": "AWSServiceRoleForApplicationAutoScaling_DynamoDBTable"
+          },
+          "ScalingPolicyConfiguration": {
+            "TargetValue": 70
+          }
+        }
+      }
+    },
+    {
+      "TableName": "bids",
+      "KeyAttributes": {
+        "PartitionKey": {
+          "AttributeName": "bid_id",
+          "AttributeType": "N"
+        },
+        "SortKey": {
+          "AttributeName": "sk",
+          "AttributeType": "S"
+        }
+      },
+      "NonKeyAttributes": [
+        {
+          "AttributeName": "email",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "fname",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "lname",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "phone",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "createDate",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "updateDate",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "category",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "status",
+          "AttributeType": "S"
+        },
+        {
+          "AttributeName": "info",
+          "AttributeType": "M"
+        },
+        {
+          "AttributeName": "contact",
+          "AttributeType": "M"
+        },
+        {
+          "AttributeName": "closedDeal",
+          "AttributeType": "BOOL"
+        }
+      ],
+      "TableFacets": [
+        {
+          "FacetName": "customers",
+          "KeyAttributeAlias": {
+            "PartitionKeyAlias": "bid_id",
+            "SortKeyAlias": "sk"
+          },
+          "TableData": [
+            {
+              "bid_id": {
+                "N": "123"
+              },
+              "sk": {
+                "S": "CUST#100001"
+              },
+              "email": {
+                "S": "CUST#100001"
+              },
+              "fname": {
+                "S": "Shirley "
+              },
+              "lname": {
+                "S": "Rodriguez"
+              },
+              "phone": {
+                "S": "972521111111"
+              },
+              "createDate": {
+                "S": "2020-01-01T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-01-01T09:16:46-07:00"
+              }
+            },
+            {
+              "bid_id": {
+                "N": "124"
+              },
+              "sk": {
+                "S": "CUST#100002"
+              },
+              "email": {
+                "S": "zhang@example.net"
+              },
+              "fname": {
+                "S": "Zhang"
+              },
+              "lname": {
+                "S": "Wei"
+              },
+              "phone": {
+                "S": "972521111222"
+              },
+              "createDate": {
+                "S": "2020-01-02T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-01-02T09:16:46-07:00"
+              }
+            },
+            {
+              "bid_id": {
+                "N": "125"
+              },
+              "sk": {
+                "S": "CUST#100001"
+              },
+              "email": {
+                "S": "CUST#100001"
+              },
+              "fname": {
+                "S": "Shirley "
+              },
+              "lname": {
+                "S": "Rodriguez"
+              },
+              "phone": {
+                "S": "972521111111"
+              },
+              "createDate": {
+                "S": "2020-01-01T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-01-01T09:16:46-07:00"
+              }
+            }
+          ],
+          "NonKeyAttributes": [
+            "email",
+            "fname",
+            "lname",
+            "phone",
+            "createDate",
+            "updateDate"
+          ],
+          "DataAccess": {
+            "MySql": {}
+          }
+        },
+        {
+          "FacetName": "bids",
+          "KeyAttributeAlias": {
+            "PartitionKeyAlias": "bid_id",
+            "SortKeyAlias": "sk"
+          },
+          "TableData": [
+            {
+              "bid_id": {
+                "N": "123"
+              },
+              "sk": {
+                "S": "BID#123"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:46-07:00"
+              },
+              "category": {
+                "S": "Flights"
+              },
+              "status": {
+                "S": "open"
+              },
+              "info": {
+                "M": {
+                  "trip": "tlv-bgk",
+                  "persons": "4",
+                  "fromDate": "15.8",
+                  "toDate": "20.8",
+                  "target_price": "400"
+                }
+              }
+            },
+            {
+              "bid_id": {
+                "N": "124"
+              },
+              "sk": {
+                "S": "BID#124"
+              },
+              "createDate": {
+                "S": "2020-03-26T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-26T09:16:46-07:00"
+              },
+              "category": {
+                "S": "Hotels"
+              },
+              "status": {
+                "S": "open"
+              },
+              "info": {
+                "M": {
+                  "country": "Israel",
+                  "town": "Eilat",
+                  "persons": "2",
+                  "FromDate": "15.8.2021",
+                  "ToDate": "19.8.2021",
+                  "target_price": "275"
+                }
+              }
+            },
+            {
+              "bid_id": {
+                "N": "125"
+              },
+              "sk": {
+                "S": "BID#125"
+              },
+              "createDate": {
+                "S": "2020-03-26T09:16:46-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-26T09:16:46-07:00"
+              },
+              "category": {
+                "S": "Flights"
+              },
+              "status": {
+                "S": "open"
+              },
+              "info": {
+                "M": {
+                  "trip": "tlv-nyk",
+                  "persons": "4",
+                  "fromDate": "15.8",
+                  "toDate": "20.8",
+                  "target_price": "400"
+                }
+              }
+            }
+          ],
+          "NonKeyAttributes": [
+            "createDate",
+            "updateDate",
+            "category",
+            "status",
+            "info"
+          ],
+          "DataAccess": {
+            "MySql": {}
+          }
+        },
+        {
+          "FacetName": "offers",
+          "KeyAttributeAlias": {
+            "PartitionKeyAlias": "bid_id",
+            "SortKeyAlias": "sk"
+          },
+          "TableData": [
+            {
+              "bid_id": {
+                "N": "123"
+              },
+              "sk": {
+                "S": "OFFER#900001"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "info": {
+                "M": {
+                  "trip": "tlv-bgk",
+                  "persons": "4",
+                  "fromDate": "15.8",
+                  "toDate": "20.8",
+                  "airline": "El Al",
+                  "stop": "0",
+                  "price": "370"
+                }
+              },
+              "contact": {
+                "M": {
+                  "EIN": "12-3456789",
+                  "name": "best-flights",
+                  "address": "tel - aviv",
+                  "categories": [
+                    "flights",
+                    "hotels"
+                  ]
+                }
+              }
+            },
+            {
+              "bid_id": {
+                "N": "123"
+              },
+              "sk": {
+                "S": "OFFER#900002"
+              },
+              "createDate": {
+                "S": "2020-03-26T09:16:43-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-26T09:16:43-07:00"
+              },
+              "info": {
+                "M": {
+                  "trip": "tlv-bgk",
+                  "persons": "4",
+                  "fromDate": "15.8",
+                  "toDate": "20.8",
+                  "airline": "Thai",
+                  "stop": "0",
+                  "price": "350"
+                }
+              },
+              "contact": {
+                "M": {
+                  "EIN": "12-3456766",
+                  "name": "my-flights",
+                  "address": "haifa",
+                  "categories": [
+                    "flights"
+                  ]
+                }
+              }
+            },
+            {
+              "bid_id": {
+                "N": "124"
+              },
+              "sk": {
+                "S": "OFFER#900003"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:43-07:00"
+              },
+              "info": {
+                "M": {
+                  "hotel": "hilton",
+                  "persons": "2",
+                  "fromDate": "15.8",
+                  "toDate": "19.8",
+                  "price": "250"
+                }
+              },
+              "contact": {
+                "M": {
+                  "EIN": "12-3456111",
+                  "name": "best-hotels",
+                  "address": "jerusalem",
+                  "categories": [
+                    "flights",
+                    "hotels"
+                  ]
+                }
+              }
+            },
+            {
+              "bid_id": {
+                "N": "124"
+              },
+              "sk": {
+                "S": "OFFER#900004"
+              },
+              "createDate": {
+                "S": "2020-03-25T09:16:45-07:00"
+              },
+              "updateDate": {
+                "S": "2020-03-25T09:16:45-07:00"
+              },
+              "info": {
+                "M": {
+                  "hotel": "hilton",
+                  "persons": "2",
+                  "fromDate": "15.8",
+                  "toDate": "19.8",
+                  "price": "270"
+                }
+              },
+              "contact": {
+                "M": {
+                  "EIN": "12-3456713",
+                  "name": "my-hotels",
+                  "address": "haifa",
+                  "categories": [
+                    "hotels"
+                  ]
+                }
+              }
+            }
+          ],
+          "NonKeyAttributes": [
+            "createDate",
+            "updateDate",
+            "info",
+            "contact",
+            "closedDeal"
+          ],
+          "DataAccess": {
+            "MySql": {}
+          }
+        }
+      ],
+      "GlobalSecondaryIndexes": [
+        {
+          "IndexName": "byCategory",
+          "KeyAttributes": {
+            "PartitionKey": {
+              "AttributeName": "category",
+              "AttributeType": "S"
+            },
+            "SortKey": {
+              "AttributeName": "bid_id",
+              "AttributeType": "N"
+            }
+          },
+          "Projection": {
+            "ProjectionType": "INCLUDE",
+            "NonKeyAttributes": [
+              "updateDate",
+              "info"
+            ]
+          }
+        },
+        {
+          "IndexName": "openBids",
+          "KeyAttributes": {
+            "PartitionKey": {
+              "AttributeName": "bid_id",
+              "AttributeType": "N"
+            },
+            "SortKey": {
+              "AttributeName": "status",
+              "AttributeType": "S"
+            }
+          },
+          "Projection": {
+            "ProjectionType": "INCLUDE",
+            "NonKeyAttributes": [
+              "updateDate",
+              "info"
+            ]
+          }
+        }
+      ],
+      "DataAccess": {
+        "MySql": {}
+      },
+      "BillingMode": "PROVISIONED",
+      "ProvisionedCapacitySettings": {
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 5,
+          "WriteCapacityUnits": 5
+        },
+        "AutoScalingRead": {
+          "ScalableTargetRequest": {
+            "MinCapacity": 1,
+            "MaxCapacity": 10,
+            "ServiceRole": "AWSServiceRoleForApplicationAutoScaling_DynamoDBTable"
+          },
+          "ScalingPolicyConfiguration": {
+            "TargetValue": 70
+          }
+        },
+        "AutoScalingWrite": {
+          "ScalableTargetRequest": {
+            "MinCapacity": 1,
+            "MaxCapacity": 10,
+            "ServiceRole": "AWSServiceRoleForApplicationAutoScaling_DynamoDBTable"
+          },
+          "ScalingPolicyConfiguration": {
+            "TargetValue": 70
+          }
+        }
+      }
+    }
+  ]
+}

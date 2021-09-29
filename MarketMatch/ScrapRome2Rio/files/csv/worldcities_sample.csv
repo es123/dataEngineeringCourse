@@ -1,0 +1,21 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tokyo,Tokyo,35.6897,139.6922,Japan,JP,JPN,Tōkyō,primary,37977000,1392685764
+Bangkok,Bangkok,13.75,100.5167,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,17066000,1764068610
+London,London,51.5072,-0.1275,United Kingdom,GB,GBR,"London, City of",primary,10979000,1826645935
+Moscow,Moscow,46.7307,-116.9986,United States,US,USA,Idaho,,26145,1840019868
+New York,New York,40.6943,-73.9249,United States,US,USA,New York,,18713220,1840034016
+Tel Aviv-Yafo,Tel Aviv-Yafo,32.0833,34.8,Israel,IL,ISR,Tel Aviv,admin,451523,1376401542
+Jakarta,Jakarta,-6.2146,106.8451,Indonesia,ID,IDN,Jakarta,primary,34540000,1360771077
+Delhi,Delhi,28.66,77.23,India,IN,IND,Delhi,admin,29617000,1356872604
+Mumbai,Mumbai,18.9667,72.8333,India,IN,IND,Mahārāshtra,admin,23355000,1356226629
+Manila,Manila,14.5958,120.9772,Philippines,PH,PHL,Manila,primary,23088000,1608618140
+Shanghai,Shanghai,31.1667,121.4667,China,CN,CHN,Shanghai,admin,22120000,1156073548
+São Paulo,Sao Paulo,-23.5504,-46.6339,Brazil,BR,BRA,São Paulo,admin,22046000,1076532519
+Seoul,Seoul,37.5833,127,"Korea, South",KR,KOR,Seoul,primary,21794000,1410836482
+Mexico City,Mexico City,19.4333,-99.1333,Mexico,MX,MEX,Ciudad de México,primary,20996000,1484247881
+Guangzhou,Guangzhou,23.1288,113.259,China,CN,CHN,Guangdong,admin,20902000,1156237133
+Beijing,Beijing,39.905,116.3914,China,CN,CHN,Beijing,primary,19433000,1156228865
+Cairo,Cairo,30.0561,31.2394,Egypt,EG,EGY,Al Qāhirah,primary,19372000,1818253931
+Kolkāta,Kolkata,22.5411,88.3378,India,IN,IND,West Bengal,admin,17560000,1356060520
+Buenos Aires,Buenos Aires,-34.5997,-58.3819,Argentina,AR,ARG,"Buenos Aires, Ciudad Autónoma de",primary,16157000,1032717330
+Shenzhen,Shenzhen,22.535,114.054,China,CN,CHN,Guangdong,minor,15929000,1156158707
