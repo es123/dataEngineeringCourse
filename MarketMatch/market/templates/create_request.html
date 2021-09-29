@@ -1,0 +1,137 @@
+
+
+
+
+
+
+<!-- # import an extends from base.html -->
+{% extends 'base.html' %}
+{% block title %}
+create request Page
+{% endblock %}
+{% block content %}
+<body class="text-center">
+   <div class="container">
+      <form method="POST" class="form-register" style="color:white">
+         <!-- protect from attack of huckers -  cross site request forgery (CSRF) -->
+         {{ form.hidden_tag() }}
+         <h1 class="h3 mb-3 font-weight-normal">
+            Please Create your Bids
+         </h1>
+         <br>
+         <div class="row g-3">
+              <div class="col">
+            <select class="form-control" id="category" name="category">
+               <option value="Flight" selected>Flight</option>
+               <option value="Hotel">Hotel</option>
+            </select>
+        </div>
+         <br>
+       
+             <div class="col">
+            <select class="form-control" id="origin" name="origin">
+               <option value="" >Select Origin...</option>
+               <option value="Tokyo">Tokyo</option>
+               <option value="Bangkok" >Bangkok</option>
+               <option value="London">London</option>
+               <option value="Moscow" >Moscow</option>
+               <option value="New York">New York</option>
+            </select>
+         </div>
+            <div class="col">
+              <select class="form-control" id="destination" name="destination">
+               <option value="" >Select Destination...</option>
+               <option value="Tokyo">Tokyo</option>
+               <option value="Bangkok" >Bangkok</option>
+               <option value="London">London</option>
+               <option value="Moscow" >Moscow</option>
+               <option value="New York">New York</option>
+            </select>
+               <br>
+            </div>
+         </div>
+         <div class="row g-3">
+            <div class="col">
+               {{ form.adults(class="form-control", placeholder="adults") }}
+            </div>
+            <div class="col">
+               {{ form.children(class="form-control", placeholder="children") }}
+            </div>
+            <div class="col">
+               {{ form.from_date(class="form-control", placeholder="from_date") }}
+            </div>
+            <div class="col">
+               {{ form.to_date(class="form-control", placeholder="to_date") }}
+            </div>
+         </div>
+         <br>
+         <div class="row g-1">
+            <div class="col">
+               {{ form.target_price(class="form-control", placeholder="target_price") }}
+            </div>
+         </div>
+         <br>
+         {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+      </form>
+   </div>
+   <table>
+      {% for item in items %}
+      <TR>
+         <TD class="c1"><IMG src="favicon.ico"></TD>
+         <TD class="c2">{{item.date}}</TD>
+         <TD class="c3">{{item.id}}</TD>
+         <TD class="c4"><SPAN>{{item.position}}</SPAN></TD>
+         <TD class="c5"><SPAN>{{item.status}}</SPAN></TD>
+      </TR>
+      {% endfor %}
+   </table>
+   <div>
+      <table class="table table-hover table-dark">
+         <h1> My Bids</h1>
+         <thead>
+            <tr>
+               <th  style = "display:none;">entity_id#</th>
+               <th>category</th>
+               <th>origin</th>
+               <th>destination</th>
+               <th>From Date</th>
+               <th>To Date</th>
+               <th>adults</th>
+               <th>children</th>
+               <th>target_price</th>
+             
+            </tr>
+         </thead>
+         <tbody>
+           
+            {% for user in bid_output %}
+            {% include 'includes/items_modals.html' %}
+            <tr>
+               <td  style = "display:none;">{{ user.entity_id }}</td>
+               <td>{{ user.category }}</td>
+               <td>{{ user.origin }}</td>
+               <td>{{ user.destination }}</td>
+               <td>{{ user.from_date }}</td>
+               <td>{{ user.to_date }}</td>
+               <td>{{ user.adults }}</td>
+               <td>{{ user.children }}</td>
+               <td>{{ user.target_price }}</td>
+    
+               <td>
+         
+                  
+                  <button class="btn btn-outline btn-info" data-toggle="modal" data-target="#Modal-MoreInfo--{{ user.origin }}--{{user.destination}}">More Info</button>
+                 
+               </td>
+                <td> 
+                  <a href={{user.html_file}} target="_blank"  style="color:white; "> More Info  </a>
+
+              
+                </td>
+            </tr>
+            {% endfor %}
+      </table>
+   </div>
+   <p><a class="btn btn-lg btn-block btn-primary" href="{{ url_for('all_bids_page') }}"> Make Offer To Other Bids</a></p>
+</body>
+{% endblock %}

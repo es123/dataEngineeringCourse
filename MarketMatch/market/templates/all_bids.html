@@ -1,0 +1,60 @@
+<!-- # import an extends from base.html -->
+{% extends 'base.html' %}
+{% block title %}
+all bids
+{% endblock %}
+{% block content %}
+<body class="text-center">
+   <div class="container">
+
+      <table class="table table-hover table-dark">
+         <h1> My Bids</h1>
+         <thead>
+            <tr>
+               <th>user_name</th>
+                  <th>entity_id</th>
+                  <th>From Date</th>
+                  <th>To Date</th>
+                  <th>adults</th>
+                  <th>children</th>
+                  <th>target_price</th>
+                  <th>category</th>
+                  <th>origin</th>
+                  <th>destination</th>
+                  <th>My Offer</th>
+             
+            </tr>
+         </thead>
+         <tbody>
+           
+             {% for user in bid_output %}
+            <tr>
+               <td>{{ user.user_name }}</td>
+                  <td>{{ user.entity_id }}</td>
+                  <td>{{ user.bid_info_from_date }}</td>
+                  <td>{{ user.bid_info_to_date }}</td>
+                  <td>{{ user.bid_info_adults }}</td>
+                  <td>{{ user.bid_info_children }}</td>
+                  <td>{{ user.bid_info_target_price }}</td>
+                  <td><a>category missing !!!</a></td>
+                  <td>{{ user.bid_info_origin }}</td>
+                  <td>{{ user.bid_info_destination }}</td>
+    
+              
+                  <td>
+                  
+                  <form method="POST" class="form-register" style="color:white">
+   <td>  {{ form.offer(class="form-control", placeholder="offer") }}</td>
+   <td> {{ form.submit(class="btn btn-lg btn-block btn-primary") }}</td>
+   </tr>
+   </form>
+
+              </td>
+                
+            </tr>
+            {% endfor %}
+      </table>
+   </div>
+   <p><a class="btn btn-lg btn-block btn-primary" href="{{ url_for('all_my_offers_page') }}">All  offer</a></p>
+</body>
+{% endblock %}

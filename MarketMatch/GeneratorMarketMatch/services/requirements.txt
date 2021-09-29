@@ -1,0 +1,9 @@
+# requirements.txt
+
+boto3
+datetime
+python-dotenv==0.17.1
+json
+uuid
+py-ulid
+

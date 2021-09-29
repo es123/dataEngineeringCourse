@@ -1,0 +1,40 @@
+2021-08-26 10:46:29.756 root         LoadKinesisBids INFO     logging to: ./tyche/GeneratorMarketMatch/files/logs/generato_bids_log_2021-08-26-10-46-29.txt
+2021-08-26 10:46:29.758 root         LoadKinesisBids INFO     
+
+2021-08-26 10:46:29.812 root         LoadKinesisBids INFO     current total users on system: 40
+2021-08-26 10:46:29.814 root         LoadKinesisBids INFO     generating bid#2 for user#0
+2021-08-26 10:46:29.848 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:29.881 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:29.887 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:29.888 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:29.888 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:29.925 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:29.940 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:29.940 root         LoadKinesisBids INFO     generating bid#2 for user#1
+2021-08-26 10:46:29.968 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:30.003 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:30.007 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:30.008 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:30.008 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:30.043 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:30.056 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:30.057 root         LoadKinesisBids INFO     generating bid#2 for user#2
+2021-08-26 10:46:30.083 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:30.144 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:30.147 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:30.147 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:30.148 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:30.185 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:30.199 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:30.200 root         LoadKinesisBids INFO     generating bid#2 for user#3
+2021-08-26 10:46:30.230 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:30.266 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:30.271 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:30.272 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:30.272 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:30.308 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:30.322 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:30.322 root         LoadKinesisBids INFO     total of 3 user/s for creating bids been reached
+2021-08-26 10:46:30.324 root         LoadKinesisBids INFO     
+
+2021-08-26 10:46:30.324 root         LoadKinesisBids INFO     --- total python duration: 00:00:00.%f ---

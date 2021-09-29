@@ -1,0 +1,37 @@
+2021-08-26 10:46:19.905 root         LoadKinesisOffers INFO     logging to : ./tyche/GeneratorMarketMatch/files/logs/generato_bids_log_2021-08-26-10-46-19.txt
+2021-08-26 10:46:19.905 root         LoadKinesisOffers INFO     
+
+2021-08-26 10:46:19.998 root         LoadKinesisOffers INFO     total bids on system: 314
+2021-08-26 10:46:20.011 root         LoadKinesisOffers INFO     generating bid#0 out of 2
+2021-08-26 10:46:20.052 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:20.104 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:20.112 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:20.112 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:20.113 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:20.113 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.152 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:20.153 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.170 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:20.170 root         LoadKinesisOffers INFO     generating bid#1 out of 2
+2021-08-26 10:46:20.208 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:20.271 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:20.279 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:20.280 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:20.280 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:20.281 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.321 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:20.321 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.336 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:20.336 root         LoadKinesisOffers INFO     generating bid#2 out of 2
+2021-08-26 10:46:20.378 botocore.credentials credentials INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2021-08-26 10:46:20.477 root         LoadKinesis INFO     starting generate_and_submit
+2021-08-26 10:46:20.483 root         LoadKinesis INFO     counter: 0
+2021-08-26 10:46:20.484 root         LoadKinesis INFO     self.maximum_records: 2
+2021-08-26 10:46:20.484 root         LoadKinesis INFO     self.batch_size: 1
+2021-08-26 10:46:20.484 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.524 root         LoadKinesis INFO     Batch inserted. Total records: 1
+2021-08-26 10:46:20.525 root         GeneratorUtils INFO     loading business flights sample
+2021-08-26 10:46:20.538 root         LoadKinesis INFO     Batch inserted. Total records: 2
+2021-08-26 10:46:20.540 root         LoadKinesisOffers INFO     
+
+2021-08-26 10:46:20.540 root         LoadKinesisOffers INFO     --- total python duration: 00:00:00.%f ---

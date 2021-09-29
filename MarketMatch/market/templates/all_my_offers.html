@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block title %}
+all offer page
+{% endblock %}
+{% block content %}
+<body class="text-center">
+   <div class="container">
+   <form method="POST" class="form-all_my_offers" style="color:white">
+      <div>
+         <table class="table table-hover table-dark">
+            <h1>  All My Offers  </h1>
+            <thead>
+               <tr>
+                  <th>entity_id</th>
+                  <th>bid</th>
+                  <th>user_offer</th>
+                  <th>contact_info_name</th>
+                  <th>contact_info_phone</th>
+                  <th>offer_info_price</th>
+                  <th>offer_info_notes</th>
+                  <th>create_date</th>
+              
+               </tr>
+            </thead>
+            {% for user in ls_offer %}
+            <tr>
+               <td>{{ user.entity_id }}</td>
+               <td>{{ user.bid }}</td>
+               <td>{{ user.user_offer }}</td>
+               <td>{{ user.contact_info_name }}</td>
+               <td>{{ user.contact_info_phone }}</td>
+               <td>{{ user.offer_info_price }}</td>
+               <td>{{ user.offer_info_notes }}</td>
+               <td>{{ user.create_date }}</td>
+   </form>
+   {% endfor %}
+   </table>
+   </div>
+</body>
+{% endblock %}
