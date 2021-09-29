@@ -1,0 +1,882 @@
+city,iataCode, Airport name, Location, Country,isInternational
+CGY Laguindingan International Airport,CGY,Laguindingan International Airport,Cagayan de Oro City,Philippines,YES
+FMA Formosa International Airport (El Pucú Airport),FMA,Formosa International Airport (El Pucú Airport),Formosa,Argentina,YES
+TPA Tampa International Airport,TPA,Tampa International Airport,"Tampa, Florida",United States,YES
+AMM Queen Alia International Airport,AMM,Queen Alia International Airport,Amman,Jordan,YES
+ELP El Paso International Airport,ELP,El Paso International Airport,"El Paso, Texas",United States,YES
+IAS Ia?i International Airport,IAS,Ia?i International Airport,Ia?i,Romania,YES
+KCH Kuching International Airport,KCH,Kuching International Airport,"Kuching, Sarawak",Malaysia,YES
+LRL Niamtougou International Airport,LRL,Niamtougou International Airport,Niamtougou,Togo,YES
+NBK Suvarnabhumi International Airport,NBK,Suvarnabhumi International Airport,Bangkok,Thailand,YES
+TPE Taiwan Taoyuan International Airport,TPE,Taiwan Taoyuan International Airport,"Taoyuan County, Taiwan",China,YES
+LRM La Romana International Airport (Casa de Campo International Airport),LRM,La Romana International Airport (Casa de Campo International Airport),La Romana,Dominican Republic,YES
+NBO Jomo Kenyatta International Airport,NBO,Jomo Kenyatta International Airport,Nairobi,Kenya,YES
+SFH San Felipe International Airport,SFH,San Felipe International Airport,"San Felipe, Baja California",Mexico,YES
+AAC El Arish International Airport,AAC,El Arish International Airport,El Arish,Egypt,YES
+AZO Kalamazoo/Battle Creek International Airport,AZO,Kalamazoo/Battle Creek International Airport,"Kalamazoo/Battle Creek, Michigan",United States,YES
+MES Polonia International Airport,MES,Polonia International Airport,Medan,Indonesia,YES
+CHC Christchurch International Airport,CHC,Christchurch International Airport,Christchurch,New Zealand,YES
+JAN Jackson-Evers International Airport,JAN,Jackson-Evers International Airport,"Jackson, Mississippi",United States,YES
+GLS Scholes International Airport at Galveston,GLS,Scholes International Airport at Galveston,"Galveston, Texas",United States,YES
+"HER Heraklion International Airport, Nikos Kazantzakis",HER,"Heraklion International Airport, Nikos Kazantzakis","Heraklion, Crete",Greece,YES
+PNH Phnom Penh International Airport,PNH,Phnom Penh International Airport,Phnom Penh,Cambodia,YES
+VIE Vienna International Airport,VIE,Vienna International Airport,Vienna,Austria,YES
+AZS Samaná El Catey International Airport,AZS,Samaná El Catey International Airport,"El Catey, Samaná",Dominican Republic,YES
+BKI Kota Kinabalu International Airport,BKI,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,YES
+PNI Pohnpei International Airport,PNI,Pohnpei International Airport,Kolonia,Federated States of Micronesia,YES
+SFO San Francisco International Airport,SFO,San Francisco International Airport,"San Francisco, California",United States,YES
+FMO Münster Osnabrück International Airport,FMO,Münster Osnabrück International Airport,"Greven, North Rhine-Westphalia",Germany,YES
+HET Hohhot Baita International Airport,HET,Hohhot Baita International Airport,"Hohhot, Inner Mongolia",China,YES
+LRU Las Cruces International Airport,LRU,Las Cruces International Airport,"Las Cruces, New Mexico",United States,YES
+NCE Côte d'Azur International Airport,NCE,Côte d'Azur International Airport,Nice,France,YES
+BKK Suvarnabhumi Airport(New Bangkok International Airport) (Donmuang Airport),BKK,Suvarnabhumi Airport(New Bangkok International Airport) (Donmuang Airport),Bangkok,Thailand,YES
+CTG Rafael Núñez International Airport,CTG,Rafael Núñez International Airport,Cartagena,Colombia,YES
+HEX Herrera International Airport (closed),HEX,Herrera International Airport (closed),Santo Domingo,Dominican Republic,YES
+MEX Mexico City International Airport,MEX,Mexico City International Airport,Mexico City,Mexico,YES
+SFS Subic Bay International Airport,SFS,Subic Bay International Airport,"Morong, Bataan",Philippines,YES
+PNQ Pune International Airport,PNQ,Pune International Airport,Pune,India,YES
+YLW Kelowna International Airport,YLW,Kelowna International Airport,"Kelowna, British Columbia",Canada,YES
+FNA Lungi International Airport,FNA,Lungi International Airport,Freetown,Sierra Leone,YES
+JAX Jacksonville International Airport,JAX,Jacksonville International Airport,"Jacksonville, Florida",United States,YES
+ONT Ontario International Airport,ONT,Ontario International Airport,"Ontario, California",United States,YES
+SVO Sheremetyevo International Airport,SVO,Sheremetyevo International Airport,Moscow,Russia,YES
+PNS Pensacola International Airport,PNS,Pensacola International Airport,"Pensacola, Florida",United States,YES
+RDU Raleigh–Durham International Airport,RDU,Raleigh–Durham International Airport,"Raleigh / Durham, North Carolina",United States,YES
+BKO Senou International Airport,BKO,Senou International Airport,Bamako,Mali,YES
+DME Domodedovo International Airport,DME,Domodedovo International Airport,Moscow,Russia,YES
+JBQ La Isabela International Airport,JBQ,La Isabela International Airport,La Isabela,Dominican Republic,YES
+TRC Francisco Sarabia International Airport (Torreón Int'l),TRC,Francisco Sarabia International Airport (Torreón Int'l),"Torreón, Coahuila",Mexico,YES
+VIN Gavryshivka International,VIN,Gavryshivka International,Vinnytsia,Ukraine,YES
+CTM Chetumal International Airport,CTM,Chetumal International Airport,"Chetumal, Quintana Roo",Mexico,YES
+DMK Don Mueang International Airport,DMK,Don Mueang International Airport,"Don Muang, Bangkok",Thailand,YES
+HFE Hefei Luogang International Airport,HFE,Hefei Luogang International Airport,"Hefei, Anhui",China,YES
+NDB Nouadhibou International Airport,NDB,Nouadhibou International Airport,Nouadhibou,Mauritania,YES
+ZAM Zamboanga International Airport,ZAM,Zamboanga International Airport,Zamboanga City,Philippines,YES
+AAN Al Ain International Airport,AAN,Al Ain International Airport,Al Ain,United Arab Emirates,YES
+DMM King Fahd International Airport,DMM,King Fahd International Airport,Dammam,Saudi Arabia,YES
+ICN Incheon International Airport,ICN,Incheon International Airport,Incheon,South Korea,YES
+REC Guararapes International Airport,REC,Guararapes International Airport,Recife,Brazil,YES
+MFE McAllen-Miller International Airport,MFE,McAllen-Miller International Airport,"McAllen, Texas",United States,YES
+NDJ N'Djamena International Airport,NDJ,N'Djamena International Airport,N'Djamena,Chad,YES
+SVX Koltsovo International Airport,SVX,Koltsovo International Airport,Yekaterinburg,Russia,YES
+VIT Vitoria Foronda International Airport,VIT,Vitoria Foronda International Airport,Vitoria-Gasteiz,Spain,YES
+ANC Ted Stevens Anchorage International Airport,ANC,Ted Stevens Anchorage International Airport,"Anchorage, Alaska",United States,YES
+BAH Bahrain International Airport,BAH,Bahrain International Airport,Al Muharraq,Bahrain,YES
+SVZ Juan Vicente Gómez International Airport,SVZ,Juan Vicente Gómez International Airport,San Antonio del Táchira,Venezuela,YES
+CHQ Chania International Airport,CHQ,Chania International Airport,Chania,Greece,YES
+FNJ Pyongyang Sunan International Airport,FNJ,Pyongyang Sunan International Airport,Pyongyang,North Korea,YES
+POA Salgado Filho International Airport,POA,Salgado Filho International Airport,"Porto Alegre, Rio Grande DO Sul",Brazil,YES
+XMN Xiamen Gaoqi International Airport,XMN,Xiamen Gaoqi International Airport,"Xiamen, Fujian",China,YES
+HGA Egal International Airport,HGA,Egal International Airport,Hargeisa,Somalia,YES
+ANF Cerro Moreno International Airport,ANF,Cerro Moreno International Airport,Antofagasta,Chile,YES
+CHS Charleston International Airport / Charleston AFB,CHS,Charleston International Airport / Charleston AFB,"Charleston, South Carolina",United States,YES
+CTS Chitose International Airport,CTS,Chitose International Airport,"Sapporo, Hokkaido",Japan,YES
+GMP Gimpo International Airport (Kimpo Airport),GMP,Gimpo International Airport (Kimpo Airport),Seoul,South Korea,YES
+MQP Kruger Mpumalanga International Airport,MQP,Kruger Mpumalanga International Airport,Nelspruit,South Africa,YES
+SWF Stewart International Airport,SWF,Stewart International Airport,"Newburgh, New York",United States,YES
+FNT Bishop International Airport,FNT,Bishop International Airport,"Flint, Michigan",United States,YES
+HGH Hangzhou Xiaoshan International Airport,HGH,Hangzhou Xiaoshan International Airport,Hangzhou,China,YES
+SGN Tan Son Nhat International Airport,SGN,Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,YES
+CTU Chengdu Shuangliu International Airport,CTU,Chengdu Shuangliu International Airport,"Chengdu, Sichuan",China,YES
+MFM Macau International Airport,MFM,Macau International Airport,Taipa,Macau,YES
+REP Angkor International Airport,REP,Angkor International Airport,Siem Reap,Cambodia,YES
+VKO Vnukovo International Airport,VKO,Vnukovo International Airport,Moscow,Russia,YES
+LSP Josefa Camejo International Airport,LSP,Josefa Camejo International Airport,Las Piedras,Venezuela,YES
+MQT Sawyer International Airport,MQT,Sawyer International Airport,"Marquette, Michigan",United States,YES
+TRN Turin International Airport,TRN,Turin International Airport,Turin,Italy,YES
+BLA Generál José Antonio Anzoátegui International Airport,BLA,Generál José Antonio Anzoátegui International Airport,"Barcelona, Anzoátegui",Venezuela,YES
+CHX Captain Manuel Niño International Airport,CHX,Captain Manuel Niño International Airport,"Changuinola, Bocas del Toro",Panama,YES
+FOC Fuzhou Changle International Airport,FOC,Fuzhou Changle International Airport,"Fuzhou, Fujian",China,YES
+KDH Kandahar International Airport,KDH,Kandahar International Airport,Kandahar,Afghanistan,YES
+RES Resistencia International Airport,RES,Resistencia International Airport,"Resistencia, Chaco",Argentina,YES
+BAQ Ernesto Cortissoz International Airport,BAQ,Ernesto Cortissoz International Airport,Barranquilla,Colombia,YES
+ORD O'Hare International Airport (formerly Orchard Depot Field),ORD,O'Hare International Airport (formerly Orchard Depot Field),"Chicago, Illinois",United States,YES
+BWI Baltimore/Washington International Thurgood Marshall Airport,BWI,Baltimore/Washington International Thurgood Marshall Airport,"between Baltimore, Maryland and Washington, D.C.",United States,YES
+MFR Rogue Valley International - Medford Airport,MFR,Rogue Valley International - Medford Airport,"Medford, Oregon",United States,YES
+SHA Shanghai Hongqiao International Airport,SHA,Shanghai Hongqiao International Airport,Shanghai,China,YES
+TRU Cap. FAP Carlos Martínez de Pinillos International Airport,TRU,Cap. FAP Carlos Martínez de Pinillos International Airport,Trujillo,Peru,YES
+ZCL General Leobardo C. Ruiz International Airport (La Calera Airport),ZCL,General Leobardo C. Ruiz International Airport (La Calera Airport),"Zacatecas, Zacatecas",Mexico,YES
+ORF Norfolk International Airport,ORF,Norfolk International Airport,"Norfolk, Virginia",United States,YES
+REX GENERAL Lucio Blanco International Airport,REX,GENERAL Lucio Blanco International Airport,Reynosa,Mexico,YES
+TRV Trivandrum International Airport,TRV,Trivandrum International Airport,"Trivandrum, Kerala",India,YES
+DNK Dnipropetrovsk International Airport,DNK,Dnipropetrovsk International Airport,Dnipropetrovsk,Ukraine,YES
+LEE Leesburg International Airport,LEE,Leesburg International Airport,"Leesburg, Florida",United States,YES
+POM Jacksons International Airport (PORT Moresby Airport),POM,Jacksons International Airport (PORT Moresby Airport),PORT Moresby,Papua New Guinea,YES
+RFD Chicago Rockford International Airport (Greater Rockford Airport),RFD,Chicago Rockford International Airport (Greater Rockford Airport),"Rockford, Illinois",United States,YES
+SXB Strasbourg Entzheim International Airport,SXB,Strasbourg Entzheim International Airport,Strasbourg,France,YES
+TRW Bonriki International Airport,TRW,Bonriki International Airport,Tarawa,Kiribati,YES
+ABB Asaba International Airport,ABB,Asaba International Airport,"Asaba, Delta",Niger,YES
+CUC Camilo Daza International Airport,CUC,Camilo Daza International Airport,Cúcuta,Colombia,YES
+GND Maurice Bishop International Airport,GND,Maurice Bishop International Airport,St. George's,Grenada,YES
+IDR Devi Ahilyabai Holkar International Airport,IDR,Devi Ahilyabai Holkar International Airport,"Indore, Madhya Pradesh",India,YES
+SHE Shenyang Taoxian International Airport,SHE,Shenyang Taoxian International Airport,Shenyang,China,YES
+VLG Villa Gesell - Pinamar International Airport,VLG,Villa Gesell - Pinamar International Airport,"Villa Gesell, Buenos Aires",Argentina,YES
+NEV Vance W.Amory International Airport,NEV,Vance W.Amory International Airport,Nevis,Federation of Saint Kitts and Nevis,YES
+RGA Hermes Quijada International Airport,RGA,Hermes Quijada International Airport,"Río Grande, Tierra del Fuego",Argentina,YES
+TRZ Tiruchirapalli international Airport,TRZ,Tiruchirapalli international Airport,"Tiruchirapalli (Trichy), Tamil Nadu",India,YES
+VLI Bauerfield International Airport,VLI,Bauerfield International Airport,Port Vila,Vanuatu,YES
+YMX Montréal-Mirabel International Airport,YMX,Montréal-Mirabel International Airport,"Mirabel, Quebec",Canada,YES
+ABE Lehigh Valley International Airport,ABE,Lehigh Valley International Airport,"Allentown, Pennsylvania",United States,YES
+BWN Brunei International Airport,BWN,Brunei International Airport,Bandar Seri Begawan,Brunei,YES
+POS Piarco International Airport,POS,Piarco International Airport,Piarco,Trinidad and Tobago,YES
+RGL Piloto Civil Norberto Fernández International Airport,RGL,Piloto Civil Norberto Fernández International Airport,"Río Gallegos, Santa Cruz",Argentina,YES
+SXM Princess Juliana International Airport,SXM,Princess Juliana International Airport,"Philipsburg, Sint Maarten",Kingdom of the Netherlands,YES
+ANR Antwerp International Airport,ANR,Antwerp International Airport,Antwerp,Belgium,YES
+BLI Bellingham International Airport,BLI,Bellingham International Airport,"Bellingham, Washington",United States,YES
+LEI Almería International Airport,LEI,Almería International Airport,Almería,Spain,YES
+RGN Yangon International Airport,RGN,Yangon International Airport,Yangon,Myanmar,YES
+VLN Arturo Michelena International Airport,VLN,Arturo Michelena International Airport,"Valencia, Carabobo",Venezuela,YES
+FOR Pinto Martins International Airport,FOR,Pinto Martins International Airport,"Fortaleza, Ceará",Brazil,YES
+SHJ Sharjah International Airport,SHJ,Sharjah International Airport,Sharjah,United Arab Emirates,YES
+BLK Blackpool International Airport,BLK,Blackpool International Airport,"Blackpool, England",United Kingdom,YES
+IEV Kiev International Airport,IEV,Kiev International Airport,Kiev,Ukraine,YES
+MGA Augusto C.Sandino International Airport,MGA,Augusto C.Sandino International Airport,Managua,Nicaragua,YES
+SXR Srinagar International Airport,SXR,Srinagar International Airport,Srinagar,India,YES
+ANU V.C. Bird International Airport,ANU,V.C. Bird International Airport,"St. John's, Antigua",Antigua and Barbuda,YES
+NGB Ningbo Lishe International Airport,NGB,Ningbo Lishe International Airport,"Ningbo, Zhejiang",China,YES
+NGO Chubu Centrair International Airport,NGO,Chubu Centrair International Airport,Nagoya,Japan,YES
+RHO Rhodes International Airport,RHO,Rhodes International Airport,Rhodes,Greece,YES
+SHO King Mswati III International Airport,SHO,King Mswati III International Airport,Manzini,Swaziland,YES
+TSN Tianjin Binhai International Airport,TSN,Tianjin Binhai International Airport,Tianjin,China,YES
+CUL Federal de Bachigualato International Airport,CUL,Federal de Bachigualato International Airport,"Culiacán, Sinaloa",Mexico,YES
+FPO Grand Bahama International Airport,FPO,Grand Bahama International Airport,"Freeport, Grand Bahama",Bahamas,YES
+FPR St. Lucie County International Airport,FPR,St. Lucie County International Airport,"Fort Pierce, Florida",United States,YES
+IFN Esfahan Shahid Beheshti International Airport,IFN,Esfahan Shahid Beheshti International Airport,Isfahan,Iran,YES
+VNO Vilnius International Airport,VNO,Vilnius International Airport,Vilnius,Lithuania,YES
+CUN Cancún International Airport,CUN,Cancún International Airport,"Cancún, Quintana Roo",Mexico,YES
+TSR Traian Vuia International Airport,TSR,Traian Vuia International Airport,Timi?oara,Romania,YES
+BLR Bengaluru International Airport,BLR,Bengaluru International Airport,Bangalore,India,YES
+IFP Laughlin/Bullhead International Airport,IFP,Laughlin/Bullhead International Airport,"Bullhead City, Arizona",United States,YES
+JED King Abdulaziz International Airport,JED,King Abdulaziz International Airport,Jeddah,Saudi Arabia,YES
+KRK John Paul II International Airport (Kraków Airport),KRK,John Paul II International Airport (Kraków Airport),Kraków / Balice,Poland,YES
+LTK Bassel Al-Assad International Airport,LTK,Bassel Al-Assad International Airport,Latakia,Syria,YES
+ORY Orly International Airport,ORY,Orly International Airport,"Paris - Orly, Paris",France,YES
+PPE Mar de Cortés International Airport,PPE,Mar de Cortés International Airport,"La Jolla de Cortes, Sonora",Mexico,YES
+VNT Ventspils International Airport,VNT,Ventspils International Airport,Ventspils,Latvia,YES
+ABQ Albuquerque International Sunport,ABQ,Albuquerque International Sunport,"Albuquerque, New Mexico",United States,YES
+LET Alfredo Vásquez Cobo International Airport,LET,Alfredo Vásquez Cobo International Airport,Leticia,Colombia,YES
+PPG Pago Pago International Airport,PPG,Pago Pago International Airport,Pago Pago,American Samoa,YES
+RIC Richmond International Airport,RIC,Richmond International Airport,"Richmond, Virginia",United States,YES
+CUR Hato International Airport,CUR,Hato International Airport,"Willemstad, Curaçao",Kingdom of the Netherlands,YES
+DOD Dodoma International Airport,DOD,Dodoma International Airport,Dodoma,Tanzania,YES
+KEF Keflavík International Airport,KEF,Keflavík International Airport,Keflavík,Iceland,YES
+LTO Loreto International Airport,LTO,Loreto International Airport,"Loreto, Baja California Sur",Mexico,YES
+SID Amilcar Cabral International Airport,SID,Amilcar Cabral International Airport,Sal Island,Cape Verde,YES
+CIU Chippewa County International Airport,CIU,Chippewa County International Airport,"Sault Ste Marie, Michigan",United States,YES
+MRU Sir Seewoosagur Ramgoolam International Airport,MRU,Sir Seewoosagur Ramgoolam International Airport,Plaisance,Mauritius,YES
+OSF Ostafyevo International Airport,OSF,Ostafyevo International Airport,Podolsk,Russia,YES
+YNT Yantai Laishan International Airport,YNT,Yantai Laishan International Airport,"Yantai, Shandong",China,YES
+CUU General Roberto Fierro Villalobos International Airport,CUU,General Roberto Fierro Villalobos International Airport,"Chihuahua, Chihuahua",Mexico,YES
+DOH Hamad International Airport,DOH,Hamad International Airport,Doha,Qatar,YES
+SYQ Tobías Bolaños International Airport,SYQ,Tobías Bolaños International Airport,San José,Costa Rica,YES
+ABV Nnamdi Azikiwe International Airport,ABV,Nnamdi Azikiwe International Airport,Abuja,Nigeria,YES
+BLZ Chileka International Airport,BLZ,Chileka International Airport,Blantyre,Malawi,YES
+CIX Capitán FAP José A. Quiñones Gonzales International Airport,CIX,Capitán FAP José A. Quiñones Gonzales International Airport,Chiclayo,Peru,YES
+MGQ Aden Adde International Airport,MGQ,Aden Adde International Airport,Mogadishu,Somalia,YES
+SYR Syracuse Hancock International Airport,SYR,Syracuse Hancock International Airport,"Mattydale, New York",United States,YES
+VOL International Airport of Central Greece,VOL,International Airport of Central Greece,Volos,Greece,YES
+DOK Donetsk International Airport,DOK,Donetsk International Airport,Donetsk,Ukraine,YES
+GOI Goa International Airport (Dabolim Airport),GOI,Goa International Airport (Dabolim Airport),"Dabolim, Goa",India,YES
+NIM Diori Hamani International Airport,NIM,Diori Hamani International Airport,Niamey,Niger,YES
+VOZ Voronezh International Airport,VOZ,Voronezh International Airport,Voronezh,Russia,YES
+JFK John F. Kennedy International Airport,JFK,John F. Kennedy International Airport,"New York City, New York",United States,YES
+KRT Khartoum International Airport,KRT,Khartoum International Airport,Khartoum,Sudan,YES
+SYX Sanya Phoenix International Airport,SYX,Sanya Phoenix International Airport,"Sanya, Hainan",China,YES
+CUZ Alejandro Velasco Astete International Airport,CUZ,Alejandro Velasco Astete International Airport,"Cusco, Cusco Region",Peru,YES
+IGR Cataratas del Iguazú International Airport,IGR,Cataratas del Iguazú International Airport,"Puerto Iguazú, Misiones",Argentina,YES
+OSR Ostrava-Mosnov International Airport,OSR,Ostrava-Mosnov International Airport,Ostrava,Czech Republic,YES
+CJB Coimbatore International Airport,CJB,Coimbatore International Airport,Coimbatore,India,YES
+SIP Simferopol International Airport,SIP,Simferopol International Airport,Simferopol,Ukraine,YES
+SYZ Shiraz International Airport,SYZ,Shiraz International Airport,Shiraz,Iran,YES
+ACA General Juan N. Álvarez International Airport,ACA,General Juan N. Álvarez International Airport,"Acapulco, Guerrero",Mexico,YES
+BME Broome International Airport,BME,Broome International Airport,"Broome, Western Australia",Australia,YES
+HIR Honiara International Airport,HIR,Honiara International Airport,"Honiara, Guadalcanal Island",Solomon Islands,YES
+OST Ostend-Bruges International Airport,OST,Ostend-Bruges International Airport,Flanders,Belgium,YES
+PPT Faa'a International Airport,PPT,Faa'a International Airport,"Papeete, Tahiti",French Polynesia,YES
+IGU Foz do Iguaçu International Airport,IGU,Foz do Iguaçu International Airport,"Foz do Iguaçu, Paraná",Brazil,YES
+LTX Cotopaxi International Airport,LTX,Cotopaxi International Airport,Latacunga,Ecuador,YES
+RIX Riga International Airport,RIX,Riga International Airport,Riga,Latvia,YES
+ACC Kotoka International Airport,ACC,Kotoka International Airport,Accra,Ghana,YES
+CVG Cincinnati/Northern Kentucky International Airport,CVG,Cincinnati/Northern Kentucky International Airport,"Hebron, Kentucky",United States,YES
+MSE Kent International Airport,MSE,Kent International Airport,"Manston, Kent, England",United Kingdom,YES
+ZIH Ixtapa-Zihuatanejo International Airport,ZIH,Ixtapa-Zihuatanejo International Airport,"Zihuatanejo, Guerrero",Mexico,YES
+CJJ Cheong Ju International Airport,CJJ,Cheong Ju International Airport,Cheong ju,South Korea,YES
+DOT Don Torcuato International Airport,DOT,Don Torcuato International Airport,Buenos Aires,Argentina,YES
+KSA Kosrae International Airport,KSA,Kosrae International Airport,Kosrae,Federated States of Micronesia,YES
+NJF Al Najaf International Airport,NJF,Al Najaf International Airport,Al Najaf,Iraq,YES
+TUA Teniente Coronel Luis a Mantilla International Airport,TUA,Teniente Coronel Luis a Mantilla International Airport,Tulcán,Ecuador,YES
+FRS Mundo Maya International Airport,FRS,Mundo Maya International Airport,"Flores, El Petén",Guatemala,YES
+SJC San Jose International Airport,SJC,San Jose International Airport,"San Jose, California",United States,YES
+TUC Teniente General Benjamín Matienzo International Airport,TUC,Teniente General Benjamín Matienzo International Airport,San Miguel de Tucumán,Argentina,YES
+MHD Mashhad International Airport (Shahid Hashemi Nejad Airport),MHD,Mashhad International Airport (Shahid Hashemi Nejad Airport),"Mashhad, Razavi Khorasan Province",Iran,YES
+NKC Nouakchott International Airport,NKC,Nouakchott International Airport,Nouakchott,Mauritania,YES
+SJD Los Cabos International Airport,SJD,Los Cabos International Airport,Los Cabos,Mexico,YES
+YOW Ottawa/Macdonald-Cartier International Airport,YOW,Ottawa/Macdonald-Cartier International Airport,"Ottawa, Ontario",Canada,YES
+CJS Abraham González International Airport,CJS,Abraham González International Airport,"Ciudad Juárez, Chihuahua",Mexico,YES
+EPS Arroyo Barril International Airport,EPS,Arroyo Barril International Airport,Samaná,Dominican Republic,YES
+FRU Manas International Airport,FRU,Manas International Airport,Bishkek,Kyrgyzstan,YES
+NKG Nanjing Lukou International Airport,NKG,Nanjing Lukou International Airport,Nanjing,China,YES
+GOU Garoua International Airport,GOU,Garoua International Airport,Garoua,Cameroon,YES
+CJU Jeju International Airport,CJU,Jeju International Airport,Jeju,South Korea,YES
+SJJ Sarajevo International Airport,SJJ,Sarajevo International Airport,Sarajevo,Bosnia and Herzegovina,YES
+TUL Tulsa International Airport,TUL,Tulsa International Airport,"Tulsa, Oklahoma",United States,YES
+HKG Hong Kong International Airport (succeeded Kai Tak Airport),HKG,Hong Kong International Airport (succeeded Kai Tak Airport),Chek Lap Kok,Hong Kong,YES
+MSO Missoula International Airport,MSO,Missoula International Airport,"Missoula, Montana",United States,YES
+TUN Tunis–Carthage International Airport,TUN,Tunis–Carthage International Airport,Tunis / Carthage,Tunisia,YES
+ACN Ciudad Acuña International Airport,ACN,Ciudad Acuña International Airport,"Ciudad Acuña, Coahuila",Mexico,YES
+BYH Arkansas International Airport,BYH,Arkansas International Airport,"Blytheville, Arkansas",United States,YES
+MSP Minneapolis–Saint Paul International Airport (Wold-Chamberlain Field),MSP,Minneapolis–Saint Paul International Airport (Wold-Chamberlain Field),"Bloomington, Minnesota",United States,YES
+IKA Tehran Imam Khomeini International Airport,IKA,Tehran Imam Khomeini International Airport,Tehran,Iran,YES
+MSQ Minsk International Airport (Minsk-2),MSQ,Minsk International Airport (Minsk-2),Minsk,Belarus,YES
+OTP Henri Coand? International Airport,OTP,Henri Coand? International Airport,Otopeni,Romania,YES
+RKT Ras Al Khaimah International Airport,RKT,Ras Al Khaimah International Airport,Ras Al Khaimah,United Arab Emirates,YES
+SJO Juan Santamaría International Airport,SJO,Juan Santamaría International Airport,San José,Costa Rica,YES
+VSA Carlos Rovirosa Pérez International Airport,VSA,Carlos Rovirosa Pérez International Airport,"Villahermosa, Tabasco",Mexico,YES
+DPS Ngurah Rai International Airport,DPS,Ngurah Rai International Airport,"Denpasar, Bali",Indonesia,YES
+JHB Sultan Ismail International Airport,JHB,Sultan Ismail International Airport,Johor Bahru,Malaysia,YES
+PRN Pristina International Airport Adem Jashari,PRN,Pristina International Airport Adem Jashari,Pristina,Kosovo,YES
+YAP Yap International Airport,YAP,Yap International Airport,Yap,Federated States of Micronesia,YES
+ZLO Playa de Oro International Airport,ZLO,Playa de Oro International Airport,"Manzanillo, Colima",Mexico,YES
+HKT Phuket International Airport,HKT,Phuket International Airport,Phuket,Thailand,YES
+LGK Langkawi International Airport,LGK,Langkawi International Airport,"Langkawi, Kedah",Malaysia,YES
+LUN Lusaka International Airport,LUN,Lusaka International Airport,Lusaka,Zambia,YES
+MSS Massena International Airport (Richards Field),MSS,Massena International Airport (Richards Field),"Massena, New York",United States,YES
+NLD Quetzalcóatl International Airport,NLD,Quetzalcóatl International Airport,Nuevo Laredo,Mexico,YES
+SZX Shenzhen Bao'an International Airport,SZX,Shenzhen Bao'an International Airport,"Shenzhen, Guangdong",China,YES
+TUS Tucson International Airport,TUS,Tucson International Airport,"Tucson, Arizona",United States,YES
+CKG Chongqing Jiangbei International Airport,CKG,Chongqing Jiangbei International Airport,Chongqing,China,YES
+SJU Luis Muñoz Marín International Airport,SJU,Luis Muñoz Marín International Airport,San Juan,Puerto Rico,YES
+CWB Afonso Pena International Airport,CWB,Afonso Pena International Airport,"Curitiba, Paraná",Brazil,YES
+MSU Moshoeshoe International Airport,MSU,Moshoeshoe International Airport,Maseru,Lesotho,YES
+SJW Shijiazhuang Zhengding International Airport,SJW,Shijiazhuang Zhengding International Airport,Shijiazhuang,China,YES
+ACY Atlantic City International Airport,ACY,Atlantic City International Airport,"Atlantic City, New Jersey",United States,YES
+MSV Sullivan County International Airport,MSV,Sullivan County International Airport,"Monticello, New York",United States,YES
+TAB Crown Point International Airport,TAB,Crown Point International Airport,"Scarborough, Tobago",Trinidad and Tobago,YES
+VTE Wattay International Airport,VTE,Wattay International Airport,Vientiane,Laos,YES
+BCM Bac?u International Airport,BCM,Bac?u International Airport,Bac?u,Romania,YES
+CWF Chennault International Airport,CWF,Chennault International Airport,"Lake Charles, Louisiana",United States,YES
+GPT Gulfport-Biloxi International Airport,GPT,Gulfport-Biloxi International Airport,"Gulfport, Mississippi",United States,YES
+MSW Massawa International Airport,MSW,Massawa International Airport,Massawa,Eritrea,YES
+ERI Erie International Airport (Tom Ridge Field),ERI,Erie International Airport (Tom Ridge Field),"Erie, Pennsylvania",United States,YES
+ADB Adnan Menderes International Airport,ADB,Adnan Menderes International Airport,?zmir,Turkey,YES
+ERL Erenhot Saiwusu International Airport,ERL,Erenhot Saiwusu International Airport,"Erenhot, Inner Mongolia",China,YES
+MSY Louis Armstrong New Orleans International Airport (formerly Moisant Field),MSY,Louis Armstrong New Orleans International Airport (formerly Moisant Field),"New Orleans,Louisiana",United States,YES
+SKB Robert L.Bradshaw International Airport,SKB,Robert L.Bradshaw International Airport,Basseterre,Saint Kitts and Nevis,YES
+TAE Daegu International Airport,TAE,Daegu International Airport,Daegu,South Korea,YES
+IKT Irkutsk International Airport,IKT,Irkutsk International Airport,Irkutsk,Russia,YES
+ADD Bole International Airport,ADD,Bole International Airport,Addis Ababa,Ethiopia,YES
+BNA Nashville International Airport,BNA,Nashville International Airport,"Nashville, Tennessee",United States,YES
+GRB Austin Straubel International Airport,GRB,Austin Straubel International Airport,"Green Bay, Wisconsin",United States,YES
+ADE Aden International Airport,ADE,Aden International Airport,Aden,Yemen,YES
+FTE Comandante Armando Tola International Airport,FTE,Comandante Armando Tola International Airport,"El Calafate, Santa Cruz Province",Argentina,YES
+RMI Federico Fellini International Airport,RMI,Federico Fellini International Airport,Rimini,Italy,YES
+TAI Ta'izz International Airport,TAI,Ta'izz International Airport,Ta'izz,Yemen,YES
+VVI Viru Viru International Airport,VVI,Viru Viru International Airport,Santa Cruz,Bolivia,YES
+TWD Jefferson County International Airport,TWD,Jefferson County International Airport,"Port Townsend, Washington",United States,YES
+VVO Vladivostok International Airport (Knevichi Airport),VVO,Vladivostok International Airport (Knevichi Airport),Vladivostok,Russia,YES
+BND Bandar Abbas International Airport,BND,Bandar Abbas International Airport,Bandar Abbas,Iran,YES
+NNG Nanning Wuxu International Airport,NNG,Nanning Wuxu International Airport,"Nanning, Guangxi",China,YES
+APW Faleolo International Airport,APW,Faleolo International Airport,"Apia, Upolu Island",Samoa,YES
+FTW Fort Worth Meacham International Airport,FTW,Fort Worth Meacham International Airport,"Fort Worth, Texas",United States,YES
+MIA Miami International Airport,MIA,Miami International Airport,"Miami, Florida",United States,YES
+TAM General Francisco Javier Mina International Airport,TAM,General Francisco Javier Mina International Airport,"Tampico, Tamaulipas",Mexico,YES
+ADJ Marka International Airport,ADJ,Marka International Airport,Amman,Jordan,YES
+JIO Ontario International Heliport,JIO,Ontario International Heliport,"Ontario, California",United States,YES
+KGL Kigali International Airport (Kanombe Airport),KGL,Kigali International Airport (Kanombe Airport),Kigali,Rwanda,YES
+HLP Halim Perdanakusuma International Airport,HLP,Halim Perdanakusuma International Airport,Jakarta,Indonesia,YES
+SKT Sialkot International Airport,SKT,Sialkot International Airport,Sialkot,Pakistan,YES
+TAO Qingdao Liuting International Airport,TAO,Qingdao Liuting International Airport,"Qingdao, Shandong",China,YES
+BZE Philip S. W. Goldson International Airport,BZE,Philip S. W. Goldson International Airport,Ladyville,Belize,YES
+LHE Allama Iqbal International Airport,LHE,Allama Iqbal International Airport,Lahore,Pakistan,YES
+MID Manuel Crescencio Rejón International Airport,MID,Manuel Crescencio Rejón International Airport,"Mérida, Yucatán",Mexico,YES
+PSM Pease International Tradeport,PSM,Pease International Tradeport,"Portsmouth, New Hampshire",United States,YES
+TAP Tapachula International Airport,TAP,Tapachula International Airport,"Tapachula, Chiapas",Mexico,YES
+CLE Cleveland Hopkins International Airport,CLE,Cleveland Hopkins International Airport,"Cleveland, Ohio",United States,YES
+CXI Cassidy International Airport,CXI,Cassidy International Airport,Christmas Island,Kiribati,YES
+ESB Esenbo?a International Airport,ESB,Esenbo?a International Airport,Ankara,Turkey,YES
+SKV St.Catherine International Airport,SKV,St.Catherine International Airport,St.Catherine,Egypt,YES
+BDA Bermuda International Airport (L.F. Wade Int'l Airport),BDA,Bermuda International Airport (L.F. Wade Int'l Airport),Ferry Reach (near Hamilton),Bermuda,YES
+DRT Del Rio International Airport,DRT,Del Rio International Airport,"Del Rio, Texas",United States,YES
+TAS Tashkent International Airport,TAS,Tashkent International Airport,Tashkent,Uzbekistan,YES
+YQB Québec/Jean Lesage International Airport,YQB,Québec/Jean Lesage International Airport,"Sainte-Foy, Quebec City, Quebec",Canada,YES
+CXL Calexico International Airport,CXL,Calexico International Airport,"Calexico, California",United States,YES
+ILM Wilmington International Airport,ILM,Wilmington International Airport,"Wilmington, North Carolina",United States,YES
+NOC Knock International Airport,NOC,Knock International Airport,Knock,Ireland,YES
+PSP Palm Springs International Airport,PSP,Palm Springs International Airport,"Palm Springs, California",United States,YES
+AQJ King Hussein International Airport,AQJ,King Hussein International Airport,Aqaba,Jordan,YES
+DRW Darwin International Airport,DRW,Darwin International Airport,"Darwin, Northern Territory",Australia,YES
+KGS Kos Island International Airport,KGS,Kos Island International Airport,Kos Island,Greece,YES
+ILO Iloilo International Airport,ILO,Iloilo International Airport,"Cabatuan / Santa Barbara, Iloilo",Philippines,YES
+NOG Nogales International Airport,NOG,Nogales International Airport,"Nogales, Sonora",Mexico,YES
+OXB Osvaldo Vieiro International Airport,OXB,Osvaldo Vieiro International Airport,Bissau,Guinea-Bissau,YES
+AQP Rodriguez Ballon International Airport,AQP,Rodriguez Ballon International Airport,Arequipa,Peru,YES
+BDE Baudette International Airport,BDE,Baudette International Airport,"Baudette, Minnesota",United States,YES
+CLJ Cluj-Napoca International Airport,CLJ,Cluj-Napoca International Airport,Cluj-Napoca,Romania,YES
+ESG Dr. Luis Maria Argaña International Airport,ESG,Dr. Luis Maria Argaña International Airport,Mariscal Estigarribia,Paraguay,YES
+FUN Funafuti International Airport,FUN,Funafuti International Airport,Funafuti,Tuvalu,YES
+HLZ Hamilton International Airport,HLZ,Hamilton International Airport,Hamilton,New Zealand,YES
+SLA Martín Miguel de Güemes International Airport,SLA,Martín Miguel de Güemes International Airport,"Salta, Salta Province",Argentina,YES
+TYN Taiyuan Wusu International Airport,TYN,Taiyuan Wusu International Airport,"Taiyuan, Shanxi",China,YES
+CXR Cam Ranh International Airport,CXR,Cam Ranh International Airport,"Cam Ranh, Khánh Hòa",Vietnam,YES
+GRR Gerald R. Ford International Airport,GRR,Gerald R. Ford International Airport,"Grand Rapids, Michigan",United States,YES
+RNO Reno-Tahoe International Airport,RNO,Reno-Tahoe International Airport,"Reno, Nevada",United States,YES
+SLC Salt Lake City International Airport,SLC,Salt Lake City International Airport,"Salt Lake City, Utah",United States,YES
+WAW Frederic Chopin International Airport,WAW,Frederic Chopin International Airport,Warsaw,Poland,YES
+CLM William R. Fairchild International Airport,CLM,William R. Fairchild International Airport,"Port Angeles, Washington",United States,YES
+NOU La Tontouta International Airport,NOU,La Tontouta International Airport,Noumea,New Caledonia,YES
+FWA Fort Wayne International Airport,FWA,Fort Wayne International Airport,"Fort Wayne, Indiana",United States,YES
+KTM Tribhuvan International Airport,KTM,Tribhuvan International Airport,Kathmandu,Nepal,YES
+PSZ Puerto Suárez International Airport,PSZ,Puerto Suárez International Airport,Puerto Suárez,Bolivia,YES
+BZY B?l?i International Airport,BZY,B?l?i International Airport,B?l?i,Moldova,YES
+CLO Alfonso Bonilla Aragón International Airport,CLO,Alfonso Bonilla Aragón International Airport,Cali,Colombia,YES
+GRU Guarulhos International Airport,GRU,Guarulhos International Airport,"Guarulhos, São Paulo",Brazil,YES
+KTN Ketchikan International Airport,KTN,Ketchikan International Airport,"Ketchikan, Alaska",United States,YES
+TBJ Tabarka - 7 Novembre International Airport,TBJ,Tabarka - 7 Novembre International Airport,Tabarka,Tunisia,YES
+CYB Gerrard Smith International Airport,CYB,Gerrard Smith International Airport,Cayman Brac,Cayman Islands,YES
+YQM Greater Moncton International Airport,YQM,Greater Moncton International Airport,"Moncton, New Brunswick",Canada,YES
+BDL Bradley International Airport,BDL,Bradley International Airport,"Windsor Locks, Connecticut",United States,YES
+BNX Banja Luka International Airport,BNX,Banja Luka International Airport,Banja Luka,Bosnia and Herzegovina,YES
+DSM Des Moines International Airport,DSM,Des Moines International Airport,"Des Moines, Iowa",United States,YES
+HMO General Ignacio Pesqueira Garcia International Airport,HMO,General Ignacio Pesqueira Garcia International Airport,"Hermosillo, Sonora",Mexico,YES
+TZL Tuzla International Airport,TZL,Tuzla International Airport,Tuzla,Bosnia and Herzegovina,YES
+ADZ Gustavo Rojas Pinilla International Airport,ADZ,Gustavo Rojas Pinilla International Airport,San Andres Island,Colombia,YES
+MIR Monastir Habib Bourguiba International Airport,MIR,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,YES
+OZH Zaporizhia International Airport,OZH,Zaporizhia International Airport,Zaporizhia,Ukraine,YES
+ROB Roberts International Airport,ROB,Roberts International Airport,Monrovia,Liberia,YES
+KHH Kaohsiung International Airport,KHH,Kaohsiung International Airport,Kaohsiung,Taiwan,YES
+MTY GENERAL Mariano Escobedo International Airport,MTY,GENERAL Mariano Escobedo International Airport,"Monterrey, Nuevo León",Mexico,YES
+PTG Polokwane International Airport,PTG,Polokwane International Airport,Polokwane,South Africa,YES
+ROC Greater Rochester International Airport,ROC,Greater Rochester International Airport,"Rochester, New York",United States,YES
+TBS Tbilisi International Airport,TBS,Tbilisi International Airport,Tbilisi,Georgia,YES
+YQR Regina International Airport,YQR,Regina International Airport,"Regina, Saskatchewan",Canada,YES
+ARI Chacalluta International Airport,ARI,Chacalluta International Airport,Arica,Chile,YES
+CLT Charlotte Douglas International Airport,CLT,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,YES
+KHI Jinnah International Airport (Quaid-e-Azam Int'l),KHI,Jinnah International Airport (Quaid-e-Azam Int'l),Karachi,Pakistan,YES
+TBT Tabatinga International Airport,TBT,Tabatinga International Airport,"Tabatinga, Amazonas",Brazil,YES
+LWO Lviv Danylo Halytskyi International Airport,LWO,Lviv Danylo Halytskyi International Airport,Lviv,Ukraine,YES
+MIU Maiduguri International Airport,MIU,Maiduguri International Airport,Maiduguri,Nigeria,YES
+TBU Fua?amotu International Airport,TBU,Fua?amotu International Airport,"Nuku?alofa, Tongatapu",Tonga,YES
+"BOC Bocas del Toro ""Isla Colón"" International Airport",BOC,"Bocas del Toro ""Isla Colón"" International Airport","Bocas Town, Bocas del Toro",Panama,YES
+PAC Albrook Marcos A.Gelabert International Airport,PAC,Albrook Marcos A.Gelabert International Airport,Panama City,Panama,YES
+PTK Oakland County International Airport,PTK,Oakland County International Airport,"Pontiac, Michigan",United States,YES
+ROP Rota International Airport,ROP,Rota International Airport,Rota Island,Northern Mariana Islands,YES
+TBZ Tabriz International Airport,TBZ,Tabriz International Airport,Tabriz,Iran,YES
+LIL Lille Lesquin International Airport,LIL,Lille Lesquin International Airport,Lille,France,YES
+NQN Presidente Perón International Airport,NQN,Presidente Perón International Airport,Neuquen,Argentina,YES
+SLP Ponciano Arriaga International Airport,SLP,Ponciano Arriaga International Airport,"San Luis Potosí, San Luis Potosí",Mexico,YES
+"ZTH Zakynthos International Airport, Dionysios Solomos",ZTH,"Zakynthos International Airport, Dionysios Solomos",Zakynthos,Greece,YES
+CAI Cairo International Airport,CAI,Cairo International Airport,Cairo,Egypt,YES
+CYR Laguna de los Patos International Airport,CYR,Laguna de los Patos International Airport,"Colonia del Sacramento, Colonia",Uruguay,YES
+KHN Nanchang Changbei International Airport,KHN,Nanchang Changbei International Airport,"Nanchang, Jiangxi",China,YES
+LIM Jorge Chávez International Airport,LIM,Jorge Chávez International Airport,Callao,Peru,YES
+LWV Lawrenceville-Vincennes International Airport,LWV,Lawrenceville-Vincennes International Airport,"Lawrenceville, Illinois",United States,YES
+ROS Rosario - Islas Malvinas International Airport,ROS,Rosario - Islas Malvinas International Airport,Rosario,Argentina,YES
+WDH Windhoek Hosea Kutako International Airport,WDH,Windhoek Hosea Kutako International Airport,Windhoek,Namibia,YES
+YQX Gander International Airport / CFB Gander,YQX,Gander International Airport / CFB Gander,"Gander, Newfoundland",Canada,YES
+BOG El Dorado International Airport,BOG,El Dorado International Airport,Bogotá,Colombia,YES
+LIO Puerto Limón International Airport,LIO,Puerto Limón International Airport,Puerto Limón,Costa Rica,YES
+NQY Newquay Cornwall International Airport,NQY,Newquay Cornwall International Airport,"Newquay, England",United Kingdom,YES
+AER Adler-Sochi International Airport,AER,Adler-Sochi International Airport,"Sochi, Krasnodar",Russia,YES
+CMB Bandaranaike International Airport,CMB,Bandaranaike International Airport,Colombo,Sri Lanka,YES
+ZTU Zaqatala International Airport,ZTU,Zaqatala International Airport,Zaqatala,Azerbaijan,YES
+GSO Piedmont Triad International Airport,GSO,Piedmont Triad International Airport,"Greensboro, North Carolina",United States,YES
+HNL Honolulu International Airport,HNL,Honolulu International Airport,"Honolulu, Hawaii",United States,YES
+ROW Roswell International Air Center,ROW,Roswell International Air Center,"Roswell, New Mexico",United States,YES
+CAN Guangzhou Baiyun International Airport,CAN,Guangzhou Baiyun International Airport,"Guangzhou, Guangdong",China,YES
+GSP Greenville-Spartanburg International Airport,GSP,Greenville-Spartanburg International Airport,"Greenville / Spartanburg, South Carolina",United States,YES
+LIR Daniel Oduber Quirós International Airport,LIR,Daniel Oduber Quirós International Airport,Liberia,Costa Rica,YES
+TCP Taba International Airport,TCP,Taba International Airport,Taba,Egypt,YES
+AEX Alexandria International Airport,AEX,Alexandria International Airport,"Alexandria, Louisiana",United States,YES
+ART Watertown International Airport,ART,Watertown International Airport,"Watertown, New York",United States,YES
+CME Ciudad del Carmen International Airport,CME,Ciudad del Carmen International Airport,"Ciudad del Carmen, Campeche",Mexico,YES
+GAE Gabès - Matmata International Airport,GAE,Gabès - Matmata International Airport,Gabès,Tunisia,YES
+LXR Luxor International Airport,LXR,Luxor International Airport,Luxor,Egypt,YES
+PTY Tocumen International Airport,PTY,Tocumen International Airport,Panama City,Panama,YES
+SLW Plan de Guadalupe International Airport,SLW,Plan de Guadalupe International Airport,Saltillo,Mexico,YES
+BOM Chhatrapati Shivaji International Airport,BOM,Chhatrapati Shivaji International Airport,Mumbai,India,YES
+CAP Cap-Haïtien International Airport,CAP,Cap-Haïtien International Airport,Cap-Haïtien,Haiti,YES
+CZA Kaua International Airport,CZA,Kaua International Airport,"Chichén Itzá, Yucatán",Mexico,YES
+GAF Gafsa - Ksar International Airport,GAF,Gafsa - Ksar International Airport,Gafsa,Tunisia,YES
+MJI Mitiga International Airport,MJI,Mitiga International Airport,Tripoli,Libya,YES
+PAP PORT -au-Prince International Airport,PAP,PORT -au-Prince International Airport,PORT -au-Prince,Haiti,YES
+BON Flamingo International Airport,BON,Flamingo International Airport,"near Kralendijk, Bonaire",Caribbean Netherlands,YES
+CMG Corumbá International Airport,CMG,Corumbá International Airport,"Corumbá, Mato Grosso do Sul",Brazil,YES
+SLZ Marechal Cunha Machado International Airport,SLZ,Marechal Cunha Machado International Airport,São Luís,Brazil,YES
+ARW Arad International Airport,ARW,Arad International Airport,Arad,Romania,YES
+CMH Port Columbus International Airport,CMH,Port Columbus International Airport,"Columbus, Ohio",United States,YES
+IND Indianapolis International Airport,IND,Indianapolis International Airport,"Indianapolis, Indiana",United States,YES
+DUG Bisbee-Douglas International Airport,DUG,Bisbee-Douglas International Airport,"Bisbee/Douglas, Arizona",United States,YES
+KUL Kuala Lumpur International Airport,KUL,Kuala Lumpur International Airport,Sepang,Malaysia,YES
+NRT Narita International Airport (formerly New Tokyo International),NRT,Narita International Airport (formerly New Tokyo International),Narita,Japan,YES
+HOD Hodeida International Airport,HOD,Hodeida International Airport,Al Hudaydah (Hodeida),Yemen,YES
+SMF Sacramento International Airport,SMF,Sacramento International Airport,"Sacramento, California",United States,YES
+ASA Assab International Airport,ASA,Assab International Airport,Assab,Eritrea,YES
+BOS Logan International Airport,BOS,Logan International Airport,"Boston, Massachusetts",United States,YES
+JNB OR Tambo International Airport,JNB,OR Tambo International Airport,"Johannesburg, Gauteng",South Africa,YES
+KUN Kaunas International Airport,KUN,Kaunas International Airport,Kaunas,Lithuania,YES
+LIZ Loring International Airport (was Loring AFB),LIZ,Loring International Airport (was Loring AFB),"Limestone, Maine",United States,YES
+NSI Yaoundé Nsimalen International Airport,NSI,Yaoundé Nsimalen International Airport,Yaoundé,Cameroon,YES
+PBC Hermanos Serdán International Airport,PBC,Hermanos Serdán International Airport,Puebla,Mexico,YES
+PUJ Punta Cana International Airport,PUJ,Punta Cana International Airport,Punta Cana,Dominican Republic,YES
+"SMI Samos International Airport Aristarchos of Samos,Samos Island,Greece
+TDL,Tandil Airport,Tandil,Argentina
+UEL,Quelimane Airport,Quelimane,Mozambique
+WHF,Wadi Halfa Airport,Wadi Halfa,Sudan
+YCU,Yuncheng Guangong Airport,Yuncheng,China
+YRO,Rockcliffe Airport,Ottawa",SMI,"Samos International Airport Aristarchos of Samos,Samos Island,Greece
+TDL,Tandil Airport,Tandil,Argentina
+UEL,Quelimane Airport,Quelimane,Mozambique
+WHF,Wadi Halfa Airport,Wadi Halfa,Sudan
+YCU,Yuncheng Guangong Airport,Yuncheng,China
+YRO,Rockcliffe Airport,Ottawa"," Ontario""",Canada,YES
+CMN Mohammed V International Airport,CMN,Mohammed V International Airport,Casablanca,Morocco,YES
+CZL Mohamed Boudiaf International Airport,CZL,Mohamed Boudiaf International Airport,Constantine,Algeria,YES
+PBG Plattsburgh International Airport,PBG,Plattsburgh International Airport,"Plattsburgh, New York",United States,YES
+RRT Warroad International Airport (Swede Carlson Field),RRT,Warroad International Airport (Swede Carlson Field),"Warroad, Minnesota",United States,YES
+ASD Andros Town International Airport,ASD,Andros Town International Airport,Andros Island,Bahamas,YES
+CZM Cozumel International Airport,CZM,Cozumel International Airport,"Cozumel, Quintana Roo",Mexico,YES
+DUR King Shaka International Airport,DUR,King Shaka International Airport,"Durban, KwaZulu-Natal",South Africa,YES
+GTF Great Falls International Airport,GTF,Great Falls International Airport,"Great Falls, Montana",United States,YES
+MJT Mytilene International Airport,MJT,Mytilene International Airport,"Mytilene, Lesbos Island",Greece,YES
+UET Quetta International Airport,UET,Quetta International Airport,Quetta,Pakistan,YES
+BEL Val de Cães International Airport,BEL,Val de Cães International Airport,"Belém, Pará",Brazil,YES
+CBB Jorge Wilstermann International Airport,CBB,Jorge Wilstermann International Airport,Cochabamba,Bolivia,YES
+DUS Düsseldorf International Airport,DUS,Düsseldorf International Airport,"Düsseldorf, North Rhine-Westphalia",Germany,YES
+GAQ Gao International Airport,GAQ,Gao International Airport,Gao,Mali,YES
+INL Falls International Airport,INL,Falls International Airport,"International Falls, Minnesota",United States,YES
+KIH Kish International Airport,KIH,Kish International Airport,Kish Island,Iran,YES
+MUX Multan International Airport,MUX,Multan International Airport,Multan,Pakistan,YES
+PBI Palm Beach International Airport,PBI,Palm Beach International Airport,"West Palm Beach, Florida",United States,YES
+ZYL Osmani International Airport,ZYL,Osmani International Airport,Sylhet,Bangladesh,YES
+PBM Johan Adolf Pengel International Airport,PBM,Johan Adolf Pengel International Airport,Zanderij,Suriname,YES
+PUQ Carlos Ibanez Del Campo International Airport,PUQ,Carlos Ibanez Del Campo International Airport,Punta Arenas,Chile,YES
+BEN Benina International Airport,BEN,Benina International Airport,Benghazi,Libya,YES
+PUS Gimhae International Airport,PUS,Gimhae International Airport,Busan,South Korea,YES
+CZS Cruzeiro do Sul International Airport,CZS,Cruzeiro do Sul International Airport,"Cruzeiro do Sul, Acre",Brazil,YES
+JNU Juneau International Airport,JNU,Juneau International Airport,"Juneau, Alaska",United States,YES
+SMR Simón Bolívar International Airport,SMR,Simón Bolívar International Airport,Santa Marta,Colombia,YES
+UGC Urgench International Airport,UGC,Urgench International Airport,Urgench,Uzbekistan,YES
+GAU Lokpriya Gopinath Bordoloi International Airport,GAU,Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,YES
+LYP Faisalabad International Airport,LYP,Faisalabad International Airport,Faisalabad,Pakistan,YES
+RST Rochester International Airport,RST,Rochester International Airport,"Rochester, Minnesota",United States,YES
+EVN Zvartnots International Airport,EVN,Zvartnots International Airport,Yerevan,Armenia,YES
+RSW Southwest Florida International Airport,RSW,Southwest Florida International Airport,"Fort Myers, Florida",United States,YES
+DVO Francisco Bangoy International Airport,DVO,Francisco Bangoy International Airport,Davao City,Philippines,YES
+KIN Norman Manley International Airport,KIN,Norman Manley International Airport,Kingston,Jamaica,YES
+"KVA Kavala International Airport, Megas Alexandros",KVA,"Kavala International Airport, Megas Alexandros",Kavala,Greece,YES
+MVD Carrasco Gral.Cesáreo L.Berisso International Airport,MVD,Carrasco Gral.Cesáreo L.Berisso International Airport,"Montevideo, Montevideo",Uruguay,YES
+RTB Juan Manuel Gálvez International Airport,RTB,Juan Manuel Gálvez International Airport,Roatán,Honduras,YES
+JOG Adisucipto International Airport,JOG,Adisucipto International Airport,Yogyakarta,Indonesia,YES
+ASM Asmara International Airport,ASM,Asmara International Airport,Asmara,Eritrea,YES
+INU Nauru International Airport,INU,Nauru International Airport,Yaren,Nauru,YES
+MKE GENERAL Mitchell International Airport,MKE,GENERAL Mitchell International Airport,"Milwaukee, Wisconsin",United States,YES
+LYX London Ashford International Airport (Ferryfield),LYX,London Ashford International Airport (Ferryfield),"Lydd, England",United Kingdom,YES
+NTY Pilanesberg International Airport,NTY,Pilanesberg International Airport,Pilanesberg,South Africa,YES
+PCL Captain Rolden International Airport,PCL,Captain Rolden International Airport,Pucallpa,Peru,YES
+DAB Daytona Beach International Airport,DAB,Daytona Beach International Airport,"Daytona Beach, Florida",United States,YES
+GUA La Aurora International Airport,GUA,La Aurora International Airport,Guatemala City,Guatemala,YES
+DAC Shahjalal International Airport,DAC,Shahjalal International Airport,Dhaka,Bangladesh,YES
+PVG Shanghai Pudong International Airport,PVG,Shanghai Pudong International Airport,Shanghai,People's Republic of China,YES
+DAD Da Nang International Airport,DAD,Da Nang International Airport,Da Nang,Vietnam,YES
+DWC Al Maktoum International Airport,DWC,Al Maktoum International Airport,"Jebel Ali, Dubai",United Arab Emirates,YES
+PVH Governador Jorge Teixeira de Oliveira International Airport,PVH,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,Brazil,YES
+QDH Ashford International,QDH,Ashford International,"Ashford, Kent",United Kingdom,YES
+ASR Erkilet International Airport,ASR,Erkilet International Airport,Kayseri Province,Turkey,YES
+BEY Beirut Air Base/Beirut Rafic Hariri International Airport,BEY,Beirut Air Base/Beirut Rafic Hariri International Airport,Beirut,Lebanon,YES
+CND Mihail Kog?lniceanu International Airport,CND,Mihail Kog?lniceanu International Airport,Constan?a,Romania,YES
+GBE Sir Seretse Khama International Airport,GBE,Sir Seretse Khama International Airport,Gaborone,Botswana,YES
+UIO Mariscal Sucre International Airport,UIO,Mariscal Sucre International Airport,Quito,Ecuador,YES
+WLG Wellington International Airport,WLG,Wellington International Airport,Wellington,New Zealand,YES
+KIV Chi?in?u International Airport,KIV,Chi?in?u International Airport,Chi?in?u,Moldova,YES
+RUH King Khalid International Airport,RUH,King Khalid International Airport,Riyadh,Saudi Arabia,YES
+ASU Silvio Pettirossi International Airport,ASU,Silvio Pettirossi International Airport,Asunción,Paraguay,YES
+CNF Tancredo Neves International Airport,CNF,Tancredo Neves International Airport,"Confins, Minas Gerais",Brazil,YES
+EWR Newark Liberty International Airport,EWR,Newark Liberty International Airport,"Newark/Elizabeth, New Jersey",United States,YES
+CBR Canberra International Airport,CBR,Canberra International Airport,Canberra,Australia,YES
+KIX Kansai International Airport,KIX,Kansai International Airport,Osaka,Japan,YES
+PDG Minangkabau International Airport,PDG,Minangkabau International Airport,"Ketaping, West Sumatra",Indonesia,YES
+PVR Lic.Gustavo Díaz Ordaz International Airport,PVR,Lic.Gustavo Díaz Ordaz International Airport,"Puerto Vallarta, Jalisco",Mexico,YES
+ASW Aswan International Airport,ASW,Aswan International Airport,Aswan,Egypt,YES
+DXB Dubai International Airport,DXB,Dubai International Airport,Dubai,United Arab Emirates,YES
+HPH Cat Bi International Airport (Catbi Airport),HPH,Cat Bi International Airport (Catbi Airport),Hai Phong (Haiphong),Vietnam,YES
+EXT Exeter International Airport,EXT,Exeter International Airport,Exeter,United Kingdom,YES
+JPA Presidente Castro Pinto International Airport,JPA,Presidente Castro Pinto International Airport,"João Pessoa, Paraíba",Brazil,YES
+SNN Shannon International Airport,SNN,Shannon International Airport,Shannon (County Clare),Ireland,YES
+DAM Damascus International Airport,DAM,Damascus International Airport,Damascus,Syria,YES
+KWE Guiyang Longdongbao International Airport,KWE,Guiyang Longdongbao International Airport,"Guiyang, Guizhou",China,YES
+PDP C/C Carlos A.Curbelo de Laguna del Sauce International Airport,PDP,C/C Carlos A.Curbelo de Laguna del Sauce International Airport,"Maldonado/Punta del Este, Maldonado",Uruguay,YES
+MAA Chennai International Airport (Madras International Airport),MAA,Chennai International Airport (Madras International Airport),Chennai (Madras),India,YES
+PDS Piedras Negras International Airport,PDS,Piedras Negras International Airport,"Piedras Negras, Coahuila",Mexico,YES
+BFI Boeing Field/King County International Airport,BFI,Boeing Field/King County International Airport,"Seattle, Washington",United States,YES
+GUM Antonio B. Won Pat International Airport (Guam International),GUM,Antonio B. Won Pat International Airport (Guam International),Hagåtña,Guam,YES
+AGT Guarani International Airport (Alejo Garcia Airport),AGT,Guarani International Airport (Alejo Garcia Airport),Ciudad del Este,Paraguay,YES
+DAR Julius Nyerere International Airport,DAR,Julius Nyerere International Airport,Dar es Salaam,Tanzania,YES
+EYW Key West International Airport,EYW,Key West International Airport,"Key West, Florida",United States,YES
+KJK Kortrijk-Wevelgem International Airport,KJK,Kortrijk-Wevelgem International Airport,Wevelgem,Belgium,YES
+PDU Tydeo Larre Borges International Airport,PDU,Tydeo Larre Borges International Airport,"Paysandú, Paysandú",Uruguay,YES
+AGU Lic. Jesús Terán Peredo International Airport,AGU,Lic. Jesús Terán Peredo International Airport,Aguascalientes,Mexico,YES
+EZE Ministro Pistarini International Airport,EZE,Ministro Pistarini International Airport,Ezeiza,Argentina,YES
+KWI Kuwait International Airport,KWI,Kuwait International Airport,Kuwait City,Kuwait,YES
+PDV Plovdiv International Airport,PDV,Plovdiv International Airport,Plovdiv,Bulgaria,YES
+TGM Târgu Mure? International Airport,TGM,Târgu Mure? International Airport,Târgu-Mure?,Romania,YES
+IPC Mataveri International Airport,IPC,Mataveri International Airport,Easter Island,Chile,YES
+NVT Ministro Victor Konder International Airport,NVT,Ministro Victor Konder International Airport,"Navegantes, Santa Catarina",Brazil,YES
+PDX Portland International Airport,PDX,Portland International Airport,"Portland, Oregon",United States,YES
+CNQ Doctor Fernando Piragine Niveyro International Airport,CNQ,Doctor Fernando Piragine Niveyro International Airport,"Corrientes, Corrientes",Argentina,YES
+DAV Enrique Malek International Airport,DAV,Enrique Malek International Airport,"David, Chiriquí Province",Panama,YES
+HRB Harbin Taiping International Airport,HRB,Harbin Taiping International Airport,"Harbin, Heilongjiang",China,YES
+MAF Midland International Airport,MAF,Midland International Airport,"Midland, Texas",United States,YES
+PWM Portland International Jetport,PWM,Portland International Jetport,"Portland, Maine",United States,YES
+SOB Sármellék International Airport,SOB,Sármellék International Airport,Sármellék,Hungary,YES
+TGU Toncontín International Airport,TGU,Toncontín International Airport,Tegucigalpa,Honduras,YES
+KWL Guilin Liangjiang International Airport,KWL,Guilin Liangjiang International Airport,"Guilin, Guangxi",China,YES
+LLK Lankaran International Airport,LLK,Lankaran International Airport,Lankaran,Azerbaijan,YES
+MVZ Masvingo International Airport,MVZ,Masvingo International Airport,Masvingo,Zimbabwe,YES
+SOC Adi Soemarmo International Airport,SOC,Adi Soemarmo International Airport,Solo City,Indonesia,YES
+TGZ Angel Albino Corzo International Airport,TGZ,Angel Albino Corzo International Airport,"Tuxtla Gutiérrez, Chiapas",Mexico,YES
+YEG Edmonton International Airport,YEG,Edmonton International Airport,"Edmonton, Alberta",Canada,YES
+CNS Cairns International Airport,CNS,Cairns International Airport,"Cairns, Queensland",Australia,YES
+DAY Dayton International Airport,DAY,Dayton International Airport,"Dayton, Ohio",United States,YES
+HRE Harare International Airport,HRE,Harare International Airport,Harare,Zimbabwe,YES
+NWI Norwich International Airport,NWI,Norwich International Airport,"Norwich, England",United Kingdom,YES
+RVY Pte.Gral.Óscar D.Gestido International Airport,RVY,Pte.Gral.Óscar D.Gestido International Airport,"Rivera, Rivera",Uruguay,YES
+ATH Athens International Airport,ATH,Athens International Airport,Athens,Greece,YES
+DZA Dzaoudzi Pamandzi International Airport,DZA,Dzaoudzi Pamandzi International Airport,Dzaoudzi,Mayotte,YES
+HRG Hurghada International Airport,HRG,Hurghada International Airport,Hurghada,Egypt,YES
+MKZ Malacca International Airport,MKZ,Malacca International Airport,Batu Berendam,Malaysia,YES
+ULN Chinggis Khaan International Airport,ULN,Chinggis Khaan International Airport,Ulan Bator,Mongolia,YES
+ATI Artigas International Airport,ATI,Artigas International Airport,"Artigas, Artigas",Uruguay,YES
+HRI Mattala Rajapaksa International Airport,HRI,Mattala Rajapaksa International Airport,Hambantota,Sri Lanka,YES
+MAJ Marshall Islands International Airport (Amata Kabua INT 'l),MAJ,Marshall Islands International Airport (Amata Kabua INT 'l),Majuro,Marshall Islands,YES
+MLA Malta International Airport (Luqa Airport),MLA,Malta International Airport (Luqa Airport),Luqa,Malta,YES
+PEI Matecaña International Airport,PEI,Matecaña International Airport,Pereira,Colombia,YES
+BFS Belfast International Airport,BFS,Belfast International Airport,"Belfast, Northern Ireland",United Kingdom,YES
+MLB Melbourne International Airport,MLB,Melbourne International Airport,"Melbourne, Florida",United States,YES
+PEK Beijing Capital International Airport,PEK,Beijing Capital International Airport,Beijing,People's Republic of China,YES
+PXM Puerto Escondido International Airport,PXM,Puerto Escondido International Airport,"Puerto Escondido, Oaxaca",Mexico,YES
+DZO Santa Bernardina International Airport,DZO,Santa Bernardina International Airport,"Durazno, Durazno",Uruguay,YES
+GCM Owen Roberts International Airport,GCM,Owen Roberts International Airport,Georgetown,Cayman Islands,YES
+HRK Kharkiv International Airport (Osnova Airport),HRK,Kharkiv International Airport (Osnova Airport),Kharkiv,Ukraine,YES
+PEM Puerto Maldonado International Airport,PEM,Puerto Maldonado International Airport,Puerto Maldonado,Peru,YES
+THF Tempelhof International Airport,THF,Tempelhof International Airport,Berlin,Germany,YES
+ATL Hartsfield–Jackson Atlanta International Airport,ATL,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,YES
+CNX Chiang Mai International Airport,CNX,Chiang Mai International Airport,Chiang Mai,Thailand,YES
+FAI Fairbanks International Airport,FAI,Fairbanks International Airport,"Fairbanks, Alaska",United States,YES
+HRL Valley International Airport,HRL,Valley International Airport,"Harlingen, Texas",United States,YES
+MAM GENERAL Servando Canales International Airport,MAM,GENERAL Servando Canales International Airport,"Matamoros, Tamaulipas",Mexico,YES
+PEN Penang International Airport,PEN,Penang International Airport,Penang,Malaysia,YES
+GVA Cointrin International Airport,GVA,Cointrin International Airport,Geneva,Switzerland,YES
+JRO Kilimanjaro International Airport,JRO,Kilimanjaro International Airport,Kilimanjaro,Tanzania,YES
+MLE Malé International Airport,MLE,Malé International Airport,Hulhulé Island,Maldives,YES
+SON Santo-Pekoa International Airport,SON,Santo-Pekoa International Airport,Luganville,Vanuatu,YES
+JRS Atarot Airport (Jerusalem International Airport),JRS,Atarot Airport (Jerusalem International Airport),Jerusalem,Israel,YES
+LLW Kamuzu International Airport,LLW,Kamuzu International Airport,Lilongwe,Malawi,YES
+MAO Eduardo Gomes International Airport,MAO,Eduardo Gomes International Airport,"Manaus, Amazonas",Brazil,YES
+MWH GRANT County International Airport,MWH,GRANT County International Airport,"Moses Lake, Washington",United States,YES
+IQQ Diego Aracena International Airport,IQQ,Diego Aracena International Airport,Iquique,Chile,YES
+PET Pelotas International Airport,PET,Pelotas International Airport,"Pelotas, Rio Grande DO Sul",Brazil,YES
+ATQ Sri Guru Ram Dass Jee International Airport,ATQ,Sri Guru Ram Dass Jee International Airport,Amritsar,India,YES
+IQT Crnl. FAP Francisco Secada Vignetta International Airport,IQT,Crnl. FAP Francisco Secada Vignetta International Airport,"Iquitos, Loreto",Peru,YES
+MAR La Chinita International Airport,MAR,La Chinita International Airport,Maracaibo,Venezuela,YES
+MLI Quad City International Airport,MLI,Quad City International Airport,"Moline, Illinois",United States,YES
+THR Mehrabad International Airport,THR,Mehrabad International Airport,Tehran,Iran,YES
+ATR Atar International Airport,ATR,Atar International Airport,Atar,Mauritania,YES
+CCP Carriel Sur International Airport,CCP,Carriel Sur International Airport,"Concepción, Bío Bío Region",Chile,YES
+YTM Rivière Rouge/Mont-Tremblant International Airport,YTM,Rivière Rouge/Mont-Tremblant International Airport,"Mont-Tremblant (La Macaza), Quebec",Canada,YES
+FAR Hector International Airport,FAR,Hector International Airport,"Fargo, North Dakota",United States,YES
+MLM GENERAL Francisco J.Mujica International Airport,MLM,GENERAL Francisco J.Mujica International Airport,"Morelia, Michoacán",Mexico,YES
+PZU PORT Sudan New International Airport,PZU,PORT Sudan New International Airport,PORT Sudan,Sudan,YES
+BGF Bangui M'Poko International Airport,BGF,Bangui M'Poko International Airport,Bangui,Central African Republic,YES
+CCS Simón Bolívar International Airport,CCS,Simón Bolívar International Airport,Maiquetía,Venezuela,YES
+FAT Fresno Yosemite International Airport,FAT,Fresno Yosemite International Airport,"Fresno, California",United States,YES
+GDL Don Miguel Hidalgo y Costilla International Airport,GDL,Don Miguel Hidalgo y Costilla International Airport,Guadalajara,Mexico,YES
+QAJ Ajman International Airport,QAJ,Ajman International Airport,Ajman,United Arab Emirates,YES
+YFC Fredericton International Airport,YFC,Fredericton International Airport,"Fredericton, New Brunswick",Canada,YES
+BGI Grantley Adams International Airport,BGI,Grantley Adams International Airport,Bridgetown,Barbados,YES
+CCU Netaji Subhas Chandra Bose International Airport,CCU,Netaji Subhas Chandra Bose International Airport,Dum Dum,India,YES
+PFN Panama City - Bay County International Airport,PFN,Panama City - Bay County International Airport,"Panama City, Florida",United States,YES
+PFO Paphos International Airport,PFO,Paphos International Airport,Paphos,Cyprus,YES
+TIA Tirana International Airport Nënë Tereza,TIA,Tirana International Airport Nënë Tereza,Tirana,Albania,YES
+BRM Jacinto Lara International Airport,BRM,Jacinto Lara International Airport,Barquisimeto,Venezuela,YES
+COK Cochin International Airport (Nedumbassery Airport),COK,Cochin International Airport (Nedumbassery Airport),"Nedumbassery, Kerala",India,YES
+EBB Entebbe International Airport,EBB,Entebbe International Airport,Entebbe,Uganda,YES
+LMM Federal del Valle del Fuerte International Airport,LMM,Federal del Valle del Fuerte International Airport,"Los Mochis, Sinaloa",Mexico,YES
+MBA Moi International Airport,MBA,Moi International Airport,Mombasa,Kenya,YES
+OAK Oakland International Airport,OAK,Oakland International Airport,"Oakland, California",United States,YES
+AUA Queen Beatrix International Airport,AUA,Queen Beatrix International Airport,Oranjestad,Aruba,YES
+BRO Brownsville/South Padre Island International Airport,BRO,Brownsville/South Padre Island International Airport,"Brownsville, Texas",United States,YES
+CCZ Chub Cay International Airport,CCZ,Chub Cay International Airport,"Chub Cay, Berry Islands",Bahamas,YES
+GDT J.A.G.S. McCartney International Airport (Grand Turk Int'l),GDT,J.A.G.S. McCartney International Airport (Grand Turk Int'l),Grand Turk Island,Turks and Caicos Islands,YES
+OAX Xoxocotlán International Airport,OAX,Xoxocotlán International Airport,Oaxaca,Mexico,YES
+SAH El Rahaba Airport (Sanaa International),SAH,El Rahaba Airport (Sanaa International),Sana'a,Yemen,YES
+TIJ General Abelardo L. Rodríguez International Airport,TIJ,General Abelardo L. Rodríguez International Airport,"Tijuana, Baja California",Mexico,YES
+EBL Erbil International Airport,EBL,Erbil International Airport,"Erbil, Kurdistan",Iraq,YES
+FBM Lubumbashi International Airport,FBM,Lubumbashi International Airport,Lubumbashi,Democratic Republic of the Congo,YES
+MBD Mafikeng International Airport,MBD,Mafikeng International Airport,Mmabatho,South Africa,YES
+UPG Sultan Hasanuddin International Airport,UPG,Sultan Hasanuddin International Airport,Makassar,Indonesia,YES
+PGL Trent Lott International Airport,PGL,Trent Lott International Airport,"Pascagoula, Mississippi",United States,YES
+SPN Saipan International Airport (Francisco C. Ada),SPN,Saipan International Airport (Francisco C. Ada),Saipan Island,Northern Mariana Islands,YES
+TIP Tripoli International Airport,TIP,Tripoli International Airport,Tripoli,Libya,YES
+UPN Lic. y Gen. Ignacio López Rayón International Airport,UPN,Lic. y Gen. Ignacio López Rayón International Airport,"Uruapan, Michoacán",Mexico,YES
+BGR Bangor International Airport,BGR,Bangor International Airport,"Bangor, Maine",United States,YES
+COR Ingeniero Ambrosio L.V. Taravella International Airport (Pajas Blancas),COR,Ingeniero Ambrosio L.V. Taravella International Airport (Pajas Blancas),"Córdoba, Córdoba",Argentina,YES
+MLZ Cerro Largo International Airport,MLZ,Cerro Largo International Airport,"Melo, Cerro Largo",Uruguay,YES
+SAL El Salvador International Airport,SAL,El Salvador International Airport,San Salvador,El Salvador,YES
+TIQ Tinian International Airport (West Tinian),TIQ,Tinian International Airport (West Tinian),Tinian Island,Northern Mariana Islands,YES
+HSV Huntsville International Airport (Carl T. Jones Field),HSV,Huntsville International Airport (Carl T. Jones Field),"Huntsville / Decatur, Alabama",United States,YES
+ISB Benazir Bhutto International Airport (Islamabad International),ISB,Benazir Bhutto International Airport (Islamabad International),Islamabad / Rawalpindi,Pakistan,YES
+SAN San Diego International Airport,SAN,San Diego International Airport,"San Diego, California",United States,YES
+AUH Abu Dhabi International Airport,AUH,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,YES
+FCA Glacier Park International Airport,FCA,Glacier Park International Airport,"Kalispell, Montana",United States,YES
+URC Ürümqi Diwopu International Airport,URC,Ürümqi Diwopu International Airport,"Ürümqi, Xinjiang",China,YES
+YUL Montréal–Pierre Elliott Trudeau International Airport,YUL,Montréal–Pierre Elliott Trudeau International Airport,"Dorval, Quebec",Canada,YES
+MBJ Sangster International Airport,MBJ,Sangster International Airport,Montego Bay,Jamaica,YES
+SAP La Mesa International Airport,SAP,La Mesa International Airport,San Pedro Sula,Honduras,YES
+YUM Yuma International Airport / MCAS Yuma,YUM,Yuma International Airport / MCAS Yuma,"Yuma, Arizona",United States,YES
+BRX Maria Montez International Airport,BRX,Maria Montez International Airport,Barahona,Dominican Republic,YES
+MXL GENERAL Rodolfo Sánchez Taboada International Airport,MXL,GENERAL Rodolfo Sánchez Taboada International Airport,"Mexicali, Baja California",Mexico,YES
+URG Rubem Berta International Airport,URG,Rubem Berta International Airport,"Uruguaiana, Rio Grande do Sul",Brazil,YES
+BGW Baghdad International Airport,BGW,Baghdad International Airport,Baghdad,Iraq,YES
+PHB Parnaíba-Prefeito Dr.João Silva Filho International Airport,PHB,Parnaíba-Prefeito Dr.João Silva Filho International Airport,"Parnaiba, Piaui",Brazil,YES
+PHC PORT Harcourt International Airport (Omagwa INT 'l),PHC,PORT Harcourt International Airport (Omagwa INT 'l),PORT Harcourt,Nigeria,YES
+SAT San Antonio International Airport,SAT,San Antonio International Airport,"San Antonio, Texas",United States,YES
+BSA Bender Qassim International Airport,BSA,Bender Qassim International Airport,Boosaaso,Somalia,YES
+GEG Spokane International Airport,GEG,Spokane International Airport,"Spokane, Washington",United States,YES
+GYD Heydar Aliyev International Airport (Bina Int'l),GYD,Heydar Aliyev International Airport (Bina Int'l),Baku,Azerbaijan,YES
+BSB Brasília International Airport,BSB,Brasília International Airport,"Brasília, Distrito Federal",Brazil,YES
+ECP Northwest Florida Beaches International Airport,ECP,Northwest Florida Beaches International Airport,"Panama City, Florida",United States,YES
+GYE José Joaquín de Olmedo International Airport,GYE,José Joaquín de Olmedo International Airport,Santiago de Guayaquil,Ecuador,YES
+JUJ Gobernador Horacio Guzmán International Airport,JUJ,Gobernador Horacio Guzmán International Airport,"San Salvador de Jujuy, Jujuy",Argentina,YES
+KLO Kalibo International Airport,KLO,Kalibo International Airport,"Kalibo, Aklan",Philippines,YES
+PHE PORT Hedland International Airport,PHE,PORT Hedland International Airport,"PORT Hedland, Western Australia",Australia,YES
+SAV Savannah/Hilton Head International Airport,SAV,Savannah/Hilton Head International Airport,"Savannah, Georgia",United States,YES
+SQQ Šiauliai International Airport,SQQ,Šiauliai International Airport,Šiauliai,Lithuania,YES
+PHF Newport News/Williamsburg International Airport,PHF,Newport News/Williamsburg International Airport,"Newport News, Virginia",United States,YES
+SAW Sabiha Gökçen International Airport,SAW,Sabiha Gökçen International Airport,Istanbul,Turkey,YES
+GEO Cheddi Jagan International Airport (Timehri Int'l),GEO,Cheddi Jagan International Airport (Timehri Int'l),Georgetown,Guyana,YES
+OCF Ocala International Airport (Jim Taylor Field),OCF,Ocala International Airport (Jim Taylor Field),"Ocala, Florida",United States,YES
+DEL Indira Gandhi International Airport,DEL,Indira Gandhi International Airport,Delhi,India,YES
+ISN Sloulin Field International Airport,ISN,Sloulin Field International Airport,"Williston, North Dakota",United States,YES
+KZN Kazan International Airport,KZN,Kazan International Airport,"Kazan, Tatarstan",Russia,YES
+MBS MBS International Airport,MBS,MBS International Airport,"Midland / Bay City / Saginaw, Michigan",United States,YES
+PHL Philadelphia International Airport,PHL,Philadelphia International Airport,"Philadelphia, Pennsylvania",United States,YES
+USH Ushuaia - Malvinas Argentinas International Airport,USH,Ushuaia - Malvinas Argentinas International Airport,"Ushuaia, Tierra del Fuego",Argentina,YES
+CPE Ing. Alberto Acuña Ongay International Airport,CPE,Ing. Alberto Acuña Ongay International Airport,"Campeche, Campeche",Mexico,YES
+GES General Santos International Airport (Tambler Airport),GES,General Santos International Airport (Tambler Airport),General Santos City,Philippines,YES
+GYM General José María Yáñez International Airport,GYM,General José María Yáñez International Airport,"Guaymas, Sonora",Mexico,YES
+PHN St.Clair County International Airport,PHN,St.Clair County International Airport,"PORT Huron, Michigan",United States,YES
+AUS Austin–Bergstrom International Airport,AUS,Austin–Bergstrom International Airport,"Austin, Texas",United States,YES
+DEN Denver International Airport,DEN,Denver International Airport,"Denver, Colorado",United States,YES
+FDF Martinique Aimé Césaire International Airport,FDF,Martinique Aimé Césaire International Airport,Le Lamentin / Fort de France,Martinique,YES
+SRE Juana Azurduy de Padilla International Airport,SRE,Juana Azurduy de Padilla International Airport,Sucre,Bolivia,YES
+XQE Ebbsfleet International Railway Station,XQE,Ebbsfleet International Railway Station,Ebbsfleet Valley,UK,YES
+IST Istanbul Atatürk Airport (Yesilköy International),IST,Istanbul Atatürk Airport (Yesilköy International),Istanbul,Turkey,YES
+SRG Achmad Yani International Airport,SRG,Achmad Yani International Airport,Semarang,Indonesia,YES
+DET Coleman A. Young International Airport,DET,Coleman A. Young International Airport,"Detroit, Michigan",United States,YES
+GYY Gary/Chicago International Airport,GYY,Gary/Chicago International Airport,"Gary, Indiana",United States,YES
+ISU Sulaimaniyah International Airport,ISU,Sulaimaniyah International Airport,"Sulaimaniyah, Kurdistan",Iraq,YES
+PHX Phoenix Sky Harbor International Airport,PHX,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,YES
+GZA Yaser Arafat International Airport,GZA,Yaser Arafat International Airport,Gaza,Palestine,YES
+ODS Odessa International Airport,ODS,Odessa International Airport,Odessa,Ukraine,YES
+TKK Chuuk International Airport,TKK,Chuuk International Airport,Weno,Federated States of Micronesia,YES
+YVR Vancouver International Airport,YVR,Vancouver International Airport,"Vancouver, British Columbia",Canada,YES
+EDL Eldoret International Airport,EDL,Eldoret International Airport,Eldoret,Kenya,YES
+UTH Udon Thani International Airport,UTH,Udon Thani International Airport,Udon Thani,Thailand,YES
+WUH Wuhan Tianhe International Airport,WUH,Wuhan Tianhe International Airport,"Wuhan, Hubei",China,YES
+BHM Birmingham–Shuttlesworth International Airport,BHM,Birmingham–Shuttlesworth International Airport,"Birmingham, Alabama",United States,YES
+CEB Mactan-Cebu International Airport,CEB,Mactan-Cebu International Airport,Lapu-Lapu City,Philippines,YES
+DFW Dallas/Fort Worth International Airport,DFW,Dallas/Fort Worth International Airport,"Dallas and Fort Worth, Texas",United States,YES
+GFK Grand Forks International Airport,GFK,Grand Forks International Airport,"Grand Forks, North Dakota",United States,YES
+SRQ Sarasota-Bradenton International Airport,SRQ,Sarasota-Bradenton International Airport,"Sarasota, Florida",United States,YES
+BSR Basrah International Airport,BSR,Basrah International Airport,Basrah,Iraq,YES
+CPR Natrona County International Airport,CPR,Natrona County International Airport,"Casper, Wyoming",United States,YES
+PIE St.Petersburg-Clearwater International Airport,PIE,St.Petersburg-Clearwater International Airport,"Pinellas County, Florida",United States,YES
+AJY Mano Dayak International Airport,AJY,Mano Dayak International Airport,Agadez,Niger,YES
+TLC Lic. Adolfo López Mateos International Airport,TLC,Lic. Adolfo López Mateos International Airport,"Toluca, Estado de México",Mexico,YES
+WUX Sunan Shuofang International Airport,WUX,Sunan Shuofang International Airport,"Wuxi/Suzhou, Jiangsu",China,YES
+CPT Cape Town International Airport,CPT,Cape Town International Airport,Cape Town,South Africa,YES
+HUF Terre Haute International Airport (Hulman Field),HUF,Terre Haute International Airport (Hulman Field),"Terre Haute, Indiana",United States,YES
+KMG Kunming Changshui International Airport,KMG,Kunming Changshui International Airport,"Kunming, Yunnan",China,YES
+PIK Glasgow Prestwick International Airport,PIK,Glasgow Prestwick International Airport,"Prestwick, Scotland",United Kingdom,YES
+SBT San Bernardino International Airport,SBT,San Bernardino International Airport,"San Bernardino, California",United States,YES
+YWG Winnipeg James Armstrong Richardson International Airport,YWG,Winnipeg James Armstrong Richardson International Airport,"Winnipeg, Manitoba",Canada,YES
+AKC Akron Fulton International Airport,AKC,Akron Fulton International Airport,"Akron, Ohio",United States,YES
+ITM Osaka International Airport (Itami Airport),ITM,Osaka International Airport (Itami Airport),Itami,Japan,YES
+UTP U-Tapao International Airport,UTP,U-Tapao International Airport,Rayong,Thailand,YES
+DGO General Guadalupe Victoria International Airport,DGO,General Guadalupe Victoria International Airport,"Durango, Durango",Mexico,YES
+HUI Phu Bai International Airport,HUI,Phu Bai International Airport,"Hu?, Th?a Thiên–Hu?",Vietnam,YES
+MCI Kansas City International Airport,MCI,Kansas City International Airport,"Kansas City, Missouri",United States,YES
+CEI Mae Fah Luang International Airport,CEI,Mae Fah Luang International Airport,Chiang Rai,Thailand,YES
+DGP Daugavpils International Airport,DGP,Daugavpils International Airport,Daugavpils,Latvia,YES
+ITO Hilo International Airport,ITO,Hilo International Airport,"Hilo, Hawaii",United States,YES
+LAN Capital Region International Airport,LAN,Capital Region International Airport,"Lansing, Michigan",United States,YES
+SSA Deputado Luís Eduardo Magalhães International Airport,SSA,Deputado Luís Eduardo Magalhães International Airport,"Salvador, Bahia",Brazil,YES
+HAH Prince Said Ibrahim International Airport,HAH,Prince Said Ibrahim International Airport,Moroni,Comoros,YES
+LAO Laoag International Airport,LAO,Laoag International Airport,"Laoag City, Ilocos Norte",Philippines,YES
+SBZ Sibiu International Airport,SBZ,Sibiu International Airport,Sibiu,Romania,YES
+AVP Wilkes-Barre/Scranton International Airport,AVP,Wilkes-Barre/Scranton International Airport,"Avoca, Pennsylvania",United States,YES
+HUL Houlton International Airport,HUL,Houlton International Airport,"Houlton, Maine",United States,YES
+LAP Manuel Márquez de León International Airport,LAP,Manuel Márquez de León International Airport,"La Paz, Baja California Sur",Mexico,YES
+YHM John C. Munro Hamilton International Airport,YHM,John C. Munro Hamilton International Airport,"Hamilton, Ontario",Canada,YES
+HAK Haikou Meilan International Airport,HAK,Haikou Meilan International Airport,"Haikou, Hainan",China,YES
+PIT Pittsburgh International Airport,PIT,Pittsburgh International Airport,"Findlay, Pennsylvania",United States,YES
+QRO Querétaro International Airport,QRO,Querétaro International Airport,Querétaro,Mexico,YES
+TLS Toulouse Blagnac International Airport,TLS,Toulouse Blagnac International Airport,Toulouse,France,YES
+BTE Sherbro International Airport,BTE,Sherbro International Airport,Bonthe,Sierra Leone,YES
+CEN Ciudad Obregón International Airport,CEN,Ciudad Obregón International Airport,"Ciudad Obregón, Sonora",Mexico,YES
+IUE Hanan International Airport,IUE,Hanan International Airport,Alofi,Niue,YES
+LAS McCarran International Airport,LAS,McCarran International Airport,"Las Vegas, Nevada",United States,YES
+MCO Orlando International Airport,MCO,Orlando International Airport,"Orlando, Florida",United States,YES
+MNL Ninoy Aquino International Airport / Villamor Airbase,MNL,Ninoy Aquino International Airport / Villamor Airbase,Metro Manila,Philippines,YES
+SSG Malabo International Airport (Saint Isabel Airport),SSG,Malabo International Airport (Saint Isabel Airport),"Malabo, Equatorial ",Guinea,YES
+DHA Dhahran International Airport,DHA,Dhahran International Airport,Dhahran,Saudi Arabia,YES
+MCP Macapá International Airport,MCP,Macapá International Airport,"Macapá, Amapá",Brazil,YES
+SSH Sharm el-Sheikh International Airport,SSH,Sharm el-Sheikh International Airport,Sharm el-Sheikh,Egypt,YES
+TLV Ben Gurion International Airport,TLV,Ben Gurion International Airport,Lod,Israel,YES
+UVF Hewanorra International Airport,UVF,Hewanorra International Airport,Vieux-Fort,Saint Lucia,YES
+GGT Exuma International Airport,GGT,Exuma International Airport,"Moss Town, Great Exuma Island",Bahamas,YES
+HAN Noi Bai International Airport,HAN,Noi Bai International Airport,Hanoi,Vietnam,YES
+MYR Myrtle Beach International Airport,MYR,Myrtle Beach International Airport,"Myrtle Beach, South Carolina",United States,YES
+LAX Los Angeles International Airport,LAX,Los Angeles International Airport,"Los Angeles, California",United States,YES
+PJC Dr.Augusto Roberto Fuster International Airport,PJC,Dr.Augusto Roberto Fuster International Airport,Pedro Juan Caballero,Paraguay,YES
+SCL Comodoro Arturo Merino Benítez International Airport,SCL,Comodoro Arturo Merino Benítez International Airport,Santiago,Chile,YES
+YXC Cranbrook/Canadian Rockies International Airport,YXC,Cranbrook/Canadian Rockies International Airport,"Cranbrook, British Columbia",Canada,YES
+CRD General Enrique Mosconi International Airport,CRD,General Enrique Mosconi International Airport,"Comodoro Rivadavia, Chubut",Argentina,YES
+HUX Huatulco International Airport,HUX,Huatulco International Airport,"Huatulco (Bahías de Huatulco), Oaxaca",Mexico,YES
+MCT Muscat International Airport (formerly Seeb Airport),MCT,Muscat International Airport (formerly Seeb Airport),Muscat,Oman,YES
+OGS Ogdensburg International Airport,OGS,Ogdensburg International Airport,"Ogdensburg, New York",United States,YES
+YXE Saskatoon John G. Diefenbaker International Airport,YXE,Saskatoon John G. Diefenbaker International Airport,"Saskatoon, Saskatchewan",Canada,YES
+LBA Leeds Bradford International Airport,LBA,Leeds Bradford International Airport,"Leeds / Bradford, West Yorkshire, England",United Kingdom,YES
+LOP Lombok International Airport (Bandara Internasional Lombok),LOP,Lombok International Airport (Bandara Internasional Lombok),"Mataram, Lombok",Indonesia,YES
+YHZ Halifax Stanfield International Airport,YHZ,Halifax Stanfield International Airport,"Enfield, Nova Scotia",Canada,YES
+LBB Lubbock Preston Smith International Airport,LBB,Lubbock Preston Smith International Airport,"Lubbock, Texas",United States,YES
+KAN Mallam Aminu Kano International Airport,KAN,Mallam Aminu Kano International Airport,Kano,Nigeria,YES
+MYY Miri International Airport,MYY,Miri International Airport,"Miri, Sarawak",Malaysia,YES
+HAV José Martí International Airport,HAV,José Martí International Airport,Havana,Cuba,YES
+LOS Murtala Muhammed International Airport,LOS,Murtala Muhammed International Airport,Lagos,Nigeria,YES
+QUO Akwa Ibom International Airport,QUO,Akwa Ibom International Airport,"Uyo, Akwa Ibom State",Nigeria,YES
+SCU Antonio Maceo International Airport,SCU,Antonio Maceo International Airport,Santiago,Cuba,YES
+BIL Billings Logan International Airport,BIL,Billings Logan International Airport,"Billings, Montana",United States,YES
+CRK Clark International Airport,CRK,Clark International Airport,Clark Special Economic Zone,Philippines,YES
+CFB Cabo Frio International Airport,CFB,Cabo Frio International Airport,"Cabo Frio, Rio de Janeiro",Brazil,YES
+LOV Venustiano Carranza International Airport,LOV,Venustiano Carranza International Airport,"Monclova, Coahuila",Mexico,YES
+TMS São Tomé International Airport,TMS,São Tomé International Airport,São Tomé,São Tomé and Príncipe,YES
+ALA Almaty International Airport,ALA,Almaty International Airport,Almaty,Kazakhstan,YES
+MDC Sam Ratulangi International Airport,MDC,Sam Ratulangi International Airport,Manado,Indonesia,YES
+ALB Albany International Airport,ALB,Albany International Airport,"Albany, New York",United States,YES
+FIH N'djili Airport (Kinshasa International),FIH,N'djili Airport (Kinshasa International),Kinshasa,Democratic Republic of the Congo,YES
+SDA Baghdad International Airport (formerly ORBS/Saddam INT 'l),SDA,Baghdad International Airport (formerly ORBS/Saddam INT 'l),Baghdad,Iraq,YES
+DIL Presidente Nicolau Lobato International Airport,DIL,Presidente Nicolau Lobato International Airport,Dili,East Timor (Timor-Leste),YES
+MDE José María Córdova International Airport,MDE,José María Córdova International Airport,Medellín,Colombia,YES
+BTV Burlington International Airport,BTV,Burlington International Airport,"Burlington, Vermont",United States,YES
+CRP Corpus Christi International Airport,CRP,Corpus Christi International Airport,"Corpus Christi, Texas",United States,YES
+STI Cibao International Airport,STI,Cibao International Airport,Santiago,Dominican Republic,YES
+YXU London International Airport,YXU,London International Airport,"London, Ontario",Canada,YES
+LPA Gran Canaria International Airport,LPA,Gran Canaria International Airport,"Las Palmas, Canary Islands",Spain,YES
+TNA Jinan Yaoqiang International Airport,TNA,Jinan Yaoqiang International Airport,"Jinan, Shandong",China,YES
+VBS Brescia Montichiari International Airport,VBS,Brescia Montichiari International Airport,Brescia,Italy,YES
+YXX Abbotsford International Airport,YXX,Abbotsford International Airport,"Abbotsford, British Columbia",Canada,YES
+GIG Galeão International Airport,GIG,Galeão International Airport,Rio de Janeiro,Brazil,YES
+LPB El Alto International Airport,LPB,El Alto International Airport,La Paz,Bolivia,YES
+SDF Louisville International Airport (Standiford Field),SDF,Louisville International Airport (Standiford Field),"Louisville, Kentucky",United States,YES
+YXY Erik Nielsen Whitehorse International Airport,YXY,Erik Nielsen Whitehorse International Airport,"Whitehorse, Yukon",Canada,YES
+PKZ Pakse International Airport,PKZ,Pakse International Airport,Pakse,Laos,YES
+STL Lambert–St. Louis International Airport,STL,Lambert–St. Louis International Airport,"St. Louis, Missouri",United States,YES
+VCA Tra Noc International Airport,VCA,Tra Noc International Airport,Can Tho,Vietnam,YES
+AXM El Edén International Airport,AXM,El Edén International Airport,Armenia,Colombia,YES
+CFK Chlef International Airport,CFK,Chlef International Airport,Chlef,Algeria,YES
+FJR Fujairah International Airport (cargo only),FJR,Fujairah International Airport (cargo only),Fujairah,United Arab Emirates,YES
+IXE Mangalore International Airport,IXE,Mangalore International Airport,Mangalore,India,YES
+TNG Ibn Batouta International Airport,TNG,Ibn Batouta International Airport,Tangier,Morocco,YES
+ALI Alice International Airport,ALI,Alice International Airport,"Alice, Texas",United States,YES
+DIR Aba Tenna Dejazmach Yilma International Airport,DIR,Aba Tenna Dejazmach Yilma International Airport,Dire Dawa,Ethiopia,YES
+EIS Terrance B. Lettsome International Airport,EIS,Terrance B. Lettsome International Airport,Beef Island,British Virgin Islands,YES
+FKI Bangoka International Airport,FKI,Bangoka International Airport,Kisangani,Democratic Republic of the Congo,YES
+LPG La Plata International Airport,LPG,La Plata International Airport,"La Plata, Buenos Aires",Argentina,YES
+MDL Mandalay International Airport,MDL,Mandalay International Airport,Mandalay,Myanmar (Burma),YES
+YYC Calgary International Airport,YYC,Calgary International Airport,"Calgary, Alberta",Canada,YES
+KNO Kuala Namu International Airport,KNO,Kuala Namu International Airport,Medan,Indonesia,YES
+TNJ Raja Haji Fisabilillah International Airport,TNJ,Raja Haji Fisabilillah International Airport,"Tanjung Pinang, Riau Islands",Indonesia,YES
+ALL Villanova d'Albenga International Airport,ALL,Villanova d'Albenga International Airport,Albenga,Italy,YES
+BUD Budapest Ferenc Liszt International Airport,BUD,Budapest Ferenc Liszt International Airport,Budapest,Hungary,YES
+RAI Praia International Airport,RAI,Praia International Airport,Praia,Cape Verde,YES
+SDQ Las Américas International Airport,SDQ,Las Américas International Airport,Punta Caucedo,Dominican Republic,YES
+VCP Viracopos International Airport,VCP,Viracopos International Airport,"Campinas, São Paulo State",Brazil,YES
+BUF Buffalo Niagara International Airport,BUF,Buffalo Niagara International Airport,"Buffalo, New York",United States,YES
+HYD Rajiv Gandhi International Airport (succeeded Begumpet Airport),HYD,Rajiv Gandhi International Airport (succeeded Begumpet Airport),Hyderabad,India,YES
+RAK Menara International Airport,RAK,Menara International Airport,Marrakech,Morocco,YES
+XCR Vatry International Airport,XCR,Vatry International Airport,Vatry,France,YES
+CFU Ioannis Kapodistrias International Airport (Corfu International Airport),CFU,Ioannis Kapodistrias International Airport (Corfu International Airport),Corfu,Greece,YES
+LBV Libreville International Airport,LBV,Libreville International Airport,Libreville,Gabon,YES
+MDQ Astor Piazzolla International Airport,MDQ,Astor Piazzolla International Airport,"Mar del Plata, Buenos Aires Province",Argentina,YES
+MZT GENERAL Rafael Buelna International Airport,MZT,GENERAL Rafael Buelna International Airport,"Mazatlán, Sinaloa",Mexico,YES
+ALP Aleppo International Airport (Nejrab Airport),ALP,Aleppo International Airport (Nejrab Airport),Aleppo,Syria,YES
+PLQ Palanga International Airport,PLQ,Palanga International Airport,Palanga,Lithuania,YES
+YKF Region of Waterloo International Airport,YKF,Region of Waterloo International Airport,"Waterloo Regional Municipality, Ontario",Canada,YES
+KBL Kabul International Airport,KBL,Kabul International Airport,Kabul,Afghanistan,YES
+MDT Harrisburg International Airport,MDT,Harrisburg International Airport,"Harrisburg, Pennsylvania",United States,YES
+MOT Minot International Airport,MOT,Minot International Airport,"Minot, North Dakota",United States,YES
+VDA Ovda International Airport,VDA,Ovda International Airport,Ovda,Israel,YES
+YYJ Victoria International Airport,YYJ,Victoria International Airport,"Victoria, British Columbia",Canada,YES
+PLS Providenciales International Airport,PLS,Providenciales International Airport,Providenciales,Turks and Caicos Islands,YES
+RAR Rarotonga International Airport,RAR,Rarotonga International Airport,Avarua,Cook Islands,YES
+LPQ Luang Prabang International Airport,LPQ,Luang Prabang International Airport,Luang Prabang,Laos,YES
+SEA Seattle–Tacoma International Airport,SEA,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,YES
+LCA Larnaca International Airport,LCA,Larnaca International Airport,Larnaca,Cyprus,YES
+MDW Midway International Airport,MDW,Midway International Airport,"Chicago, Illinois",United States,YES
+STY Nueva Hespérides International Airport,STY,Nueva Hespérides International Airport,"Salto, Salto",Uruguay,YES
+KBP Boryspil International Airport,KBP,Boryspil International Airport,Kiev,Ukraine,YES
+KOA Kona International Airport,KOA,Kona International Airport,"Kailua / Kona, Hawaii",United States,YES
+OLS Nogales International Airport,OLS,Nogales International Airport,"Nogales, Arizona",United States,YES
+SUB Juanda International Airport,SUB,Juanda International Airport,Surabaya,Indonesia,YES
+MDZ Gov.Francisco Gabrielli International Airport (El Plumerillo),MDZ,Gov.Francisco Gabrielli International Airport (El Plumerillo),"Mendoza, Mendoza Province",Argentina,YES
+NAG Dr.Babasaheb Ambedkar International Airport,NAG,Dr.Babasaheb Ambedkar International Airport,Nagpur,India,YES
+YYT St. John's International Airport,YYT,St. John's International Airport,"St. John's, Newfoundland and Labrador",Canada,YES
+BJL Banjul International Airport,BJL,Banjul International Airport,Banjul,Gambia,YES
+LCE Golosón International Airport,LCE,Golosón International Airport,La Ceiba,Honduras,YES
+LPX Liep?ja International Airport,LPX,Liep?ja International Airport,Liep?ja,Latvia,YES
+ALY Alexandria International Airport,ALY,Alexandria International Airport,Alexandria,Egypt,YES
+BJM Bujumbura International Airport,BJM,Bujumbura International Airport,Bujumbura,Burundi,YES
+BUQ Joshua Mqabuko Nkomo International Airport,BUQ,Joshua Mqabuko Nkomo International Airport,Bulawayo,Zimbabwe,YES
+FLL Fort Lauderdale–Hollywood International Airport,FLL,Fort Lauderdale–Hollywood International Airport,"Fort Lauderdale / Hollywood, Florida",United States,YES
+SUF Lamezia Terme International Airport,SUF,Lamezia Terme International Airport,Lamezia Terme,Italy,YES
+DKR Léopold Sédar Senghor International Airport,DKR,Léopold Sédar Senghor International Airport,Dakar,Senegal,YES
+MEC Eloy Alfaro International Airport,MEC,Eloy Alfaro International Airport,"Manta, Manabí",Ecuador,YES
+"TOE Tozeur, Tunisia (Aeroport International Tozeur Nefta)",TOE,"Tozeur, Tunisia (Aeroport International Tozeur Nefta)","Tozeur, Tunisia",Tunisia,YES
+AMA Rick Husband Amarillo International Airport,AMA,Rick Husband Amarillo International Airport,"Amarillo, Texas",United States,YES
+CGK Soekarno–Hatta International Airport,CGK,Soekarno–Hatta International Airport,Jakarta,Indonesia,YES
+FLN Hercílio Luz International Airport,FLN,Hercílio Luz International Airport,"Florianópolis, Santa Catarina",Brazil,YES
+PMG Ponta Porã International Airport,PMG,Ponta Porã International Airport,"Ponta Porã, Mato Grosso DO Sul",Brazil,YES
+YYZ Toronto Pearson International Airport,YYZ,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,YES
+GLA Glasgow International Airport,GLA,Glasgow International Airport,"Glasgow, Scotland",United Kingdom,YES
+NAN Nadi International Airport,NAN,Nadi International Airport,Nadi,Fiji,YES
+SUJ Satu Mare International Airport,SUJ,Satu Mare International Airport,Satu Mare,Romania,YES
+VER General Heriberto Jara International Airport,VER,General Heriberto Jara International Airport,"Veracruz, Veracruz",Mexico,YES
+RBR Rio Branco International Airport (Presidente Medici Airport),RBR,Rio Branco International Airport (Presidente Medici Airport),"Rio Branco, Acre",Brazil,YES
+AMD Sardar Vallabhbhai Patel International Airport,AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,YES
+CGO Zhengzhou Xinzheng International Airport,CGO,Zhengzhou Xinzheng International Airport,"Zhengzhou, Henan",China,YES
+LCK Rickenbacker International Airport,LCK,Rickenbacker International Airport,"Columbus, Ohio",United States,YES
+CGP Shah Amanat International Airport,CGP,Shah Amanat International Airport,Chittagong,Bangladesh,YES
+DLC Dalian Zhoushuizi International Airport,DLC,Dalian Zhoushuizi International Airport,"Dalian, Liaoning",China,YES
+HDY Hat Yai International Airport,HDY,Hat Yai International Airport,"Hat Yai, Songkhla Province",Thailand,YES
+IAD Washington Dulles International Airport,IAD,Washington Dulles International Airport,"Washington, D.C. / Virginia",United States,YES
+NAS Lynden Pindling International Airport,NAS,Lynden Pindling International Airport,Nassau,Bahamas,YES
+CGQ Changchun Longjia International Airport,CGQ,Changchun Longjia International Airport,"Changchun, Jilin",China,YES
+IAG Niagara Falls International Airport,IAG,Niagara Falls International Airport,"Niagara Falls, New York",United States,YES
+LRD Laredo International Airport,LRD,Laredo International Airport,"Laredo, Texas",United States,YES
+NAT Augusto Severo International Airport,NAT,Augusto Severo International Airport,Natal,Brazil,YES
+BJX Del Bajío International Airport (Guanajuato Int'l Airport),BJX,Del Bajío International Airport (Guanajuato Int'l Airport),"León, Guanajuato",Mexico,YES
+CGR Campo Grande International Airport,CGR,Campo Grande International Airport,"Campo Grande, Mato Grosso do Sul",Brazil,YES
+PMR Palmerston North International Airport,PMR,Palmerston North International Airport,Palmerston North,New Zealand,YES
+SEZ Seychelles International Airport,SEZ,Seychelles International Airport,Mahé,Seychelles,YES
+DLH Duluth International Airport,DLH,Duluth International Airport,"Duluth, Minnesota",United States,YES
+MEM Memphis International Airport,MEM,Memphis International Airport,"Memphis, Tennessee",United States,YES
+MPM Maputo International Airport,MPM,Maputo International Airport,Maputo,Mozambique,YES
+OMO Mostar International Airport,OMO,Mostar International Airport,Mostar,Bosnia and Herzegovina,YES
+XIY Xi'an Xianyang International Airport,XIY,Xi'an Xianyang International Airport,"Xianyang, Shaanxi",China,YES
+BVB Boa Vista International Airport,BVB,Boa Vista International Airport,"Boa Vista, Roraima",Brazil,YES
+OMR Oradea International Airport,OMR,Oradea International Airport,Oradea,Romania,YES
+PMV Del Caribe International GENERAL Santiago Marino Airport,PMV,Del Caribe International GENERAL Santiago Marino Airport,Porlamar,Venezuela,YES
+SFB Orlando Sanford International Airport,SFB,Orlando Sanford International Airport,"Sanford, Florida",United States,YES
+SUV Nausori International Airport,SUV,Nausori International Airport,"Suva / Nausori, Viti Levu",Fiji,YES
+CSX Changsha Huanghua International Airport,CSX,Changsha Huanghua International Airport,"Changsha, Hunan",China,YES

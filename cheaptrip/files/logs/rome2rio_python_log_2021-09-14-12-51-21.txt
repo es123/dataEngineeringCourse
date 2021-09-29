@@ -1,0 +1,75 @@
+2021-09-14 12:51:21.607 root         scrap_Rome2Rio INFO     logging into C:\Eran\DataEngineering\Project\cheaptrip\files\logs/rome2rio_python_log_2021-09-14-12-51-21.txt
+2021-09-14 12:51:21.608 root         scrap_Rome2Rio INFO     logging to : C:\Eran\DataEngineering\Project\cheaptrip\files\logs/rome2rio_python_log_2021-09-14-12-51-21.txt
+2021-09-14 12:51:21.608 root         scrap_Rome2Rio INFO     
+
+2021-09-14 12:51:21.615 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Philippines CGY Laguindingan International Airport to Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.641 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.641 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.641 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#0
+2021-09-14 12:51:21.642 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION0.json
+2021-09-14 12:51:21.644 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.644 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.644 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#1
+2021-09-14 12:51:21.645 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION1.json
+2021-09-14 12:51:21.647 root         scrap_Rome2Rio INFO     total of 2 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.647 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.647 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#2
+2021-09-14 12:51:21.648 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION2.json
+2021-09-14 12:51:21.650 root         scrap_Rome2Rio INFO     total of 3 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.650 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.650 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#3
+2021-09-14 12:51:21.651 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION3.json
+2021-09-14 12:51:21.652 root         scrap_Rome2Rio INFO     total of 4 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.652 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.653 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#4
+2021-09-14 12:51:21.653 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION4.json
+2021-09-14 12:51:21.655 root         scrap_Rome2Rio INFO     total of 5 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.655 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.655 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#5
+2021-09-14 12:51:21.655 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION5.json
+2021-09-14 12:51:21.657 root         scrap_Rome2Rio INFO     total of 6 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.657 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.657 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#6
+2021-09-14 12:51:21.657 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION6.json
+2021-09-14 12:51:21.659 root         scrap_Rome2Rio INFO     total of 7 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.672 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:51:21.680 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Argentina FMA Formosa International Airport (El Pucú Airport) to Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.720 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.721 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.721 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#0
+2021-09-14 12:51:21.721 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION0.json
+2021-09-14 12:51:21.724 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.724 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.724 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#1
+2021-09-14 12:51:21.725 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION1.json
+2021-09-14 12:51:21.726 root         scrap_Rome2Rio INFO     total of 2 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.726 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.727 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#2
+2021-09-14 12:51:21.727 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION2.json
+2021-09-14 12:51:21.728 root         scrap_Rome2Rio INFO     total of 3 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.729 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.729 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#3
+2021-09-14 12:51:21.729 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION3.json
+2021-09-14 12:51:21.731 root         scrap_Rome2Rio INFO     total of 4 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.731 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.732 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#4
+2021-09-14 12:51:21.732 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION4.json
+2021-09-14 12:51:21.734 root         scrap_Rome2Rio INFO     total of 5 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.734 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.734 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#5
+2021-09-14 12:51:21.735 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION5.json
+2021-09-14 12:51:21.737 root         scrap_Rome2Rio INFO     total of 6 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.737 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.737 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#6
+2021-09-14 12:51:21.737 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION6.json
+2021-09-14 12:51:21.739 root         scrap_Rome2Rio INFO     total of 7 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.739 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:51:21.739 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#7
+2021-09-14 12:51:21.740 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION7.json
+2021-09-14 12:51:21.742 root         scrap_Rome2Rio INFO     total of 8 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.767 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport
+2021-09-14 12:51:21.772 root         scrap_Rome2Rio INFO     {'total_entries': 621, 'total_arrays': 366, 'arrays_element': 2, 'total_empties': 1431}
+2021-09-14 12:51:21.772 root         scrap_Rome2Rio INFO     {'total_entries': 827, 'total_arrays': 480, 'arrays_element': 5, 'total_empties': 2850}
+2021-09-14 12:51:21.773 root         scrap_Rome2Rio INFO     
+
+2021-09-14 12:51:21.773 root         scrap_Rome2Rio INFO     --- total python duration: 00:00:00 ---
