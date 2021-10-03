@@ -1,0 +1,266 @@
+2021-09-14 12:57:18.666 root         scrap_Rome2Rio INFO     logging into C:\Eran\DataEngineering\Project\cheaptrip\files\logs/rome2rio_python_log_2021-09-14-12-57-18.txt
+2021-09-14 12:57:18.666 root         scrap_Rome2Rio INFO     logging to : C:\Eran\DataEngineering\Project\cheaptrip\files\logs/rome2rio_python_log_2021-09-14-12-57-18.txt
+2021-09-14 12:57:18.667 root         scrap_Rome2Rio INFO     
+
+2021-09-14 12:57:25.937 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Philippines CGY Laguindingan International Airport to Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:25.955 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:25.956 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:25.956 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#0
+2021-09-14 12:57:25.956 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION0.json
+2021-09-14 12:57:25.957 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#1
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#2
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#3
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#4
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#5
+2021-09-14 12:57:25.958 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#6
+2021-09-14 12:57:25.970 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Philippines CGY Laguindingan International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:25.981 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Philippines CGY Laguindingan International Airport to United States TPA Tampa International Airport
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#0
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#1
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#2
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#3
+2021-09-14 12:57:26.000 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#United States TPA Tampa International Airport#OPTION3.json
+2021-09-14 12:57:26.002 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-United States TPA Tampa International Airport
+2021-09-14 12:57:26.002 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#4
+2021-09-14 12:57:26.002 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#5
+2021-09-14 12:57:26.003 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#6
+2021-09-14 12:57:26.003 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport#7
+2021-09-14 12:57:26.013 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Philippines CGY Laguindingan International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.016 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Philippines CGY Laguindingan International Airport to Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#0
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#1
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#2
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.030 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#3
+2021-09-14 12:57:26.031 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#Jordan AMM Queen Alia International Airport#OPTION3.json
+2021-09-14 12:57:26.033 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.033 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#4
+2021-09-14 12:57:26.033 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport#5
+2021-09-14 12:57:26.037 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Philippines CGY Laguindingan International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.043 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Philippines CGY Laguindingan International Airport to United States ELP El Paso International Airport
+2021-09-14 12:57:26.061 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.061 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#0
+2021-09-14 12:57:26.061 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#1
+2021-09-14 12:57:26.061 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.062 root         scrap_Rome2Rio INFO     extracing and loading data for trip Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#2
+2021-09-14 12:57:26.062 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Philippines CGY Laguindingan International Airport#United States ELP El Paso International Airport#OPTION2.json
+2021-09-14 12:57:26.064 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Philippines CGY Laguindingan International Airport-United States ELP El Paso International Airport
+2021-09-14 12:57:26.064 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#3
+2021-09-14 12:57:26.064 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#4
+2021-09-14 12:57:26.064 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#5
+2021-09-14 12:57:26.064 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#6
+2021-09-14 12:57:26.065 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport#7
+2021-09-14 12:57:26.081 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Philippines CGY Laguindingan International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.086 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Argentina FMA Formosa International Airport (El Pucú Airport) to Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#0
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#1
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#2
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#3
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#4
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.107 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#5
+2021-09-14 12:57:26.108 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Philippines CGY Laguindingan International Airport#OPTION5.json
+2021-09-14 12:57:26.110 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.110 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#6
+2021-09-14 12:57:26.110 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport#7
+2021-09-14 12:57:26.127 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Argentina FMA Formosa International Airport (El Pucú Airport)_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.139 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Argentina FMA Formosa International Airport (El Pucú Airport) to United States TPA Tampa International Airport
+2021-09-14 12:57:26.147 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Argentina FMA Formosa International Airport (El Pucú Airport)_United States TPA Tampa International Airport
+2021-09-14 12:57:26.148 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.148 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_United States TPA Tampa International Airport#0
+2021-09-14 12:57:26.148 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#United States TPA Tampa International Airport#OPTION0.json
+2021-09-14 12:57:26.151 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-United States TPA Tampa International Airport
+2021-09-14 12:57:26.151 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_United States TPA Tampa International Airport#1
+2021-09-14 12:57:26.151 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_United States TPA Tampa International Airport#2
+2021-09-14 12:57:26.159 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Argentina FMA Formosa International Airport (El Pucú Airport)_United States TPA Tampa International Airport
+2021-09-14 12:57:26.163 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Argentina FMA Formosa International Airport (El Pucú Airport) to Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.172 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Argentina FMA Formosa International Airport (El Pucú Airport)_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.172 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Jordan AMM Queen Alia International Airport#0
+2021-09-14 12:57:26.172 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_Jordan AMM Queen Alia International Airport#1
+2021-09-14 12:57:26.173 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.173 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_Jordan AMM Queen Alia International Airport#2
+2021-09-14 12:57:26.173 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#Jordan AMM Queen Alia International Airport#OPTION2.json
+2021-09-14 12:57:26.175 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.178 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Argentina FMA Formosa International Airport (El Pucú Airport)_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.182 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Argentina FMA Formosa International Airport (El Pucú Airport) to United States ELP El Paso International Airport
+2021-09-14 12:57:26.190 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Argentina FMA Formosa International Airport (El Pucú Airport)_United States ELP El Paso International Airport
+2021-09-14 12:57:26.191 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Argentina FMA Formosa International Airport (El Pucú Airport)_United States ELP El Paso International Airport#0
+2021-09-14 12:57:26.191 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.191 root         scrap_Rome2Rio INFO     extracing and loading data for trip Argentina FMA Formosa International Airport (El Pucú Airport)_United States ELP El Paso International Airport#1
+2021-09-14 12:57:26.191 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Argentina FMA Formosa International Airport (El Pucú Airport)#United States ELP El Paso International Airport#OPTION1.json
+2021-09-14 12:57:26.194 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Argentina FMA Formosa International Airport (El Pucú Airport)-United States ELP El Paso International Airport
+2021-09-14 12:57:26.196 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Argentina FMA Formosa International Airport (El Pucú Airport)_United States ELP El Paso International Airport
+2021-09-14 12:57:26.205 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States TPA Tampa International Airport to Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.231 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.231 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#0
+2021-09-14 12:57:26.231 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#1
+2021-09-14 12:57:26.231 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#2
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#3
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#4
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#5
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#6
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport#7
+2021-09-14 12:57:26.232 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States TPA Tampa International Airport#Philippines CGY Laguindingan International Airport#OPTION7.json
+2021-09-14 12:57:26.235 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States TPA Tampa International Airport-Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.246 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States TPA Tampa International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.252 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States TPA Tampa International Airport to Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.254 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States TPA Tampa International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.255 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.255 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States TPA Tampa International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#0
+2021-09-14 12:57:26.255 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States TPA Tampa International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION0.json
+2021-09-14 12:57:26.257 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States TPA Tampa International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.259 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States TPA Tampa International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.264 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States TPA Tampa International Airport to Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.279 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.280 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport#0
+2021-09-14 12:57:26.280 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport#1
+2021-09-14 12:57:26.280 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.280 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport#2
+2021-09-14 12:57:26.281 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States TPA Tampa International Airport#Jordan AMM Queen Alia International Airport#OPTION2.json
+2021-09-14 12:57:26.282 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States TPA Tampa International Airport-Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.283 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport#3
+2021-09-14 12:57:26.283 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport#4
+2021-09-14 12:57:26.303 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States TPA Tampa International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.315 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States TPA Tampa International Airport to United States ELP El Paso International Airport
+2021-09-14 12:57:26.328 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States TPA Tampa International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.328 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#0
+2021-09-14 12:57:26.328 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.328 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States TPA Tampa International Airport_United States ELP El Paso International Airport#1
+2021-09-14 12:57:26.329 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States TPA Tampa International Airport#United States ELP El Paso International Airport#OPTION1.json
+2021-09-14 12:57:26.330 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States TPA Tampa International Airport-United States ELP El Paso International Airport
+2021-09-14 12:57:26.330 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#2
+2021-09-14 12:57:26.330 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#3
+2021-09-14 12:57:26.331 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#4
+2021-09-14 12:57:26.331 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#5
+2021-09-14 12:57:26.331 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States TPA Tampa International Airport_United States ELP El Paso International Airport#6
+2021-09-14 12:57:26.339 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States TPA Tampa International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.346 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Jordan AMM Queen Alia International Airport to Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.364 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.364 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#0
+2021-09-14 12:57:26.364 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#1
+2021-09-14 12:57:26.364 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#2
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#3
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#4
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#5
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     extracing and loading data for trip Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#6
+2021-09-14 12:57:26.365 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Jordan AMM Queen Alia International Airport#Philippines CGY Laguindingan International Airport#OPTION6.json
+2021-09-14 12:57:26.371 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Jordan AMM Queen Alia International Airport-Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.371 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport#7
+2021-09-14 12:57:26.382 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Jordan AMM Queen Alia International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.390 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Jordan AMM Queen Alia International Airport to Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.421 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.422 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#0
+2021-09-14 12:57:26.422 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#1
+2021-09-14 12:57:26.422 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#2
+2021-09-14 12:57:26.422 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#3
+2021-09-14 12:57:26.423 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#4
+2021-09-14 12:57:26.423 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.423 root         scrap_Rome2Rio INFO     extracing and loading data for trip Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#5
+2021-09-14 12:57:26.423 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Jordan AMM Queen Alia International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION5.json
+2021-09-14 12:57:26.426 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Jordan AMM Queen Alia International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.437 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Jordan AMM Queen Alia International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.445 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Jordan AMM Queen Alia International Airport to United States TPA Tampa International Airport
+2021-09-14 12:57:26.467 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.467 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#0
+2021-09-14 12:57:26.467 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#1
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#2
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#3
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#4
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     extracing and loading data for trip Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#5
+2021-09-14 12:57:26.468 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Jordan AMM Queen Alia International Airport#United States TPA Tampa International Airport#OPTION5.json
+2021-09-14 12:57:26.470 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Jordan AMM Queen Alia International Airport-United States TPA Tampa International Airport
+2021-09-14 12:57:26.470 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport#6
+2021-09-14 12:57:26.484 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Jordan AMM Queen Alia International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.498 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from Jordan AMM Queen Alia International Airport to United States ELP El Paso International Airport
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#0
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#1
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#2
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.519 root         scrap_Rome2Rio INFO     extracing and loading data for trip Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#3
+2021-09-14 12:57:26.520 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\Jordan AMM Queen Alia International Airport#United States ELP El Paso International Airport#OPTION3.json
+2021-09-14 12:57:26.525 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip Jordan AMM Queen Alia International Airport-United States ELP El Paso International Airport
+2021-09-14 12:57:26.526 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#4
+2021-09-14 12:57:26.526 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#5
+2021-09-14 12:57:26.526 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport#6
+2021-09-14 12:57:26.541 root         scrap_Rome2Rio INFO     parsing hierarchy of trip Jordan AMM Queen Alia International Airport_United States ELP El Paso International Airport
+2021-09-14 12:57:26.549 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States ELP El Paso International Airport to Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#0
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#1
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#2
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#3
+2021-09-14 12:57:26.572 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#4
+2021-09-14 12:57:26.573 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#5
+2021-09-14 12:57:26.573 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.573 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#6
+2021-09-14 12:57:26.573 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States ELP El Paso International Airport#Philippines CGY Laguindingan International Airport#OPTION6.json
+2021-09-14 12:57:26.575 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States ELP El Paso International Airport-Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.575 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport#7
+2021-09-14 12:57:26.585 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States ELP El Paso International Airport_Philippines CGY Laguindingan International Airport
+2021-09-14 12:57:26.594 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States ELP El Paso International Airport to Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.610 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.611 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#0
+2021-09-14 12:57:26.611 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.611 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#1
+2021-09-14 12:57:26.611 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States ELP El Paso International Airport#Argentina FMA Formosa International Airport (El Pucú Airport)#OPTION1.json
+2021-09-14 12:57:26.613 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States ELP El Paso International Airport-Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.613 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#2
+2021-09-14 12:57:26.613 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#3
+2021-09-14 12:57:26.613 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)#4
+2021-09-14 12:57:26.619 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States ELP El Paso International Airport_Argentina FMA Formosa International Airport (El Pucú Airport)
+2021-09-14 12:57:26.629 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States ELP El Paso International Airport to United States TPA Tampa International Airport
+2021-09-14 12:57:26.649 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States ELP El Paso International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.650 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_United States TPA Tampa International Airport#0
+2021-09-14 12:57:26.650 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.650 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States ELP El Paso International Airport_United States TPA Tampa International Airport#1
+2021-09-14 12:57:26.650 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States ELP El Paso International Airport#United States TPA Tampa International Airport#OPTION1.json
+2021-09-14 12:57:26.652 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States ELP El Paso International Airport-United States TPA Tampa International Airport
+2021-09-14 12:57:26.653 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_United States TPA Tampa International Airport#2
+2021-09-14 12:57:26.653 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_United States TPA Tampa International Airport#3
+2021-09-14 12:57:26.653 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_United States TPA Tampa International Airport#4
+2021-09-14 12:57:26.653 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_United States TPA Tampa International Airport#5
+2021-09-14 12:57:26.663 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States ELP El Paso International Airport_United States TPA Tampa International Airport
+2021-09-14 12:57:26.677 root         scrap_Rome2Rio INFO     parsing hierarchy of trip from United States ELP El Paso International Airport to Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.696 root         scrap_Rome2Rio INFO     exrtracting transists info for trip: United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.696 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#0
+2021-09-14 12:57:26.696 root         scrap_Rome2Rio INFO     total transits: 1
+2021-09-14 12:57:26.696 root         scrap_Rome2Rio INFO     extracing and loading data for trip United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#1
+2021-09-14 12:57:26.696 root         scrap_Rome2Rio INFO     writing file C:\Eran\DataEngineering\Project\cheaptrip\files\json_output\United States ELP El Paso International Airport#Jordan AMM Queen Alia International Airport#OPTION1.json
+2021-09-14 12:57:26.698 root         scrap_Rome2Rio INFO     total of 1 items were extracted and loaded for trip United States ELP El Paso International Airport-Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.698 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#2
+2021-09-14 12:57:26.698 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#3
+2021-09-14 12:57:26.699 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#4
+2021-09-14 12:57:26.699 root         scrap_Rome2Rio INFO     skipping writing trip to a json file cause it not matches condition United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport#5
+2021-09-14 12:57:26.704 root         scrap_Rome2Rio INFO     parsing hierarchy of trip United States ELP El Paso International Airport_Jordan AMM Queen Alia International Airport
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 621, 'total_arrays': 366, 'arrays_element': 2, 'total_empties': 1431}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 760, 'total_arrays': 449, 'arrays_element': 5, 'total_empties': 1711}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 758, 'total_arrays': 451, 'arrays_element': 5, 'total_empties': 1711}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 754, 'total_arrays': 455, 'arrays_element': 5, 'total_empties': 1711}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 854, 'total_arrays': 496, 'arrays_element': 7, 'total_empties': 3003}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 860, 'total_arrays': 498, 'arrays_element': 24, 'total_empties': 3003}
+2021-09-14 12:57:26.710 root         scrap_Rome2Rio INFO     {'total_entries': 853, 'total_arrays': 505, 'arrays_element': 24, 'total_empties': 2926}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 856, 'total_arrays': 502, 'arrays_element': 24, 'total_empties': 3003}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 841, 'total_arrays': 521, 'arrays_element': 24, 'total_empties': 2278}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 844, 'total_arrays': 518, 'arrays_element': 24, 'total_empties': 2415}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 854, 'total_arrays': 515, 'arrays_element': 7, 'total_empties': 2485}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 850, 'total_arrays': 523, 'arrays_element': 24, 'total_empties': 2485}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 844, 'total_arrays': 529, 'arrays_element': 24, 'total_empties': 2278}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 866, 'total_arrays': 544, 'arrays_element': 7, 'total_empties': 3003}
+2021-09-14 12:57:26.711 root         scrap_Rome2Rio INFO     {'total_entries': 878, 'total_arrays': 537, 'arrays_element': 7, 'total_empties': 2701}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     {'total_entries': 874, 'total_arrays': 543, 'arrays_element': 4, 'total_empties': 2775}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     {'total_entries': 869, 'total_arrays': 548, 'arrays_element': 4, 'total_empties': 2701}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     {'total_entries': 869, 'total_arrays': 548, 'arrays_element': 4, 'total_empties': 3081}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     {'total_entries': 875, 'total_arrays': 546, 'arrays_element': 24, 'total_empties': 2850}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     {'total_entries': 873, 'total_arrays': 550, 'arrays_element': 7, 'total_empties': 2701}
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     
+
+2021-09-14 12:57:26.712 root         scrap_Rome2Rio INFO     --- total python duration: 00:00:08 ---
